@@ -1,0 +1,340 @@
+<mjml>
+  <mj-head>
+    <mj-title>Hello world</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#333333" line-height="22px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-table font-weight="300" font-size="14px"></mj-table>
+      <mj-divider border-width="1px" border-color="#616161"></mj-divider>
+    </mj-attributes>
+    <mj-style>
+      h3 {
+        font-weight: 300 !important;
+        font-size: 16px;
+        color: #003366;
+        margin-bottom: 0px;
+      }
+      a {
+        text-decoration: underline;
+        color: #333333;
+      }
+      td {
+        font-weight: 300 !important;
+        color: #333333 !important;
+        vertical-align: top;
+        padding-top: 5px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_joshi.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">RG Hamburg BMX Newsletter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #01 - April 2023</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>
+            Willkommen zum ersten BMX-Newsletter der RG Hamburg!
+          </p>
+          <p>
+            In Zukunft möchte ich Euch Neuigkeiten, Ankündigungen
+            und Termine in komprimierter und kuratierter Form in einem
+            Newsletter zusammenfassen. Ich hoffe, die Informationsflut
+            besser zu kanalisieren und wichtigen Ankündigungen einen
+            besseren Kontext zu geben.
+          </p>
+          <p>
+            Deshalb bitte ich Euch, Ankündigungen, Informationen und Termine
+            nicht mehr an den BMX-Mailverteiler zu schicken, sondern an
+            <a href="mailto:news@rg-hamburg.de">news@rg-hamburg.de</a>.
+            Ich fasse alles zusammen und verschicke zukünftig alle paar
+            Wochen diesen Newsletter.
+          </p>
+          <p>
+            In diesem Newsletter dreht es sich um die kommende Rennsaison.
+          </p>
+          <p>Happy BMXing, Torsten</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>💰 Geförderte BMX-Rennen</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Auch in diesem Jahr fördert der Landesverband Hamburg die Teilnahme an nationalen und internationalen Rennen. Dazu gehört die deutsche Bundesliga, die 3 Nations Cup Serie sowie ausgewählte weitere internationale Rennen.
+          </p>
+          <p>
+            Die Förderung erfolgt als Zuschuss zu den entstandenen Reisekosten. Damit wir diesen Zuschuss möglichst zeitnah nach dem Rennen auszahlen können, bitten wir Euch Belege (Reisekosten, Unterkünfte, Camping, Tanken) bis spätestens 14 Tage nach dem Rennen einzureichen.
+          </p>
+          <p>
+            Einreichen könnt Ihr Eure Belege unter <a href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">https://bit.ly/rg-hamburg-bmx-rennabrechnung</a>.
+            Tragt Euch in der Excel-Tabelle für das richtige Rennen ein und ladet Eure Belege in den Ordner des Rennens hoch.
+          </p>
+          <p>
+            Bei Fragen wendet Euch an Kay (<a href="mailto:kay.tauber@gmx.de">kay.tauber@gmx.de</a>).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>⛺️ Offizielles RG-Hamburg BMX Fahrerlager</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Auf den meisten kommenden NordCup & Bundesliga Rennen möchten wir den aktiven
+            ein offizielles Fahrerlager anbieten. Dort werden Euch Trainer bzw. Betreuer
+            den Tag über betreuen und rechtzeitig zu Euren Läufen in den Vorstart schicken.
+            Wir wärmen uns gemeinsam auf und haben in den Pausen auch Spaß abseits des BMX.
+          </p>
+          <p>
+            Das ermöglicht Euch Eltern, dass Ihr Euch gerne als Helfer*in oder Offizielle*r
+            bei den kommenden Rennen eintragen könnt, für Eure Sprösslinge ist gesorgt! Bringt
+            lediglich einen Campingstuhl, Snacks & Drinks und natürlich Eure BMX-Ausrüstung
+            mit. Unterstellen können wir uns demnächst in neuen Pavillons im RG-Hamburg
+            Design und die Bikes ruhen (bald) auf einem gemeinsamen Fahrradständer.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>😃 Social Media auf Instagram</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Ja, die BMX-Sparte des RG Hamburg hat einen Instagram-Kanal! Dort versorgen
+            wir Euch mit Impressionen aus Training, Rennen und sonstigen Vereinsterminen.
+            Da ich aber nicht überall dabei sein kann und Ihr “instagrammable content”
+            habt, markiert <a href="https://www.instagram.com/bmx_rghamburg/">@bmx_rghamburg</a>
+            oder schickt ihn mir gerne via WhatsApp oder E-Mail.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🏁 Ergebnisse vom European Cup in Zolder</h3>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <p>
+            Dieses Wochenende stieg schon der 3. und 4. Lauf des European Cup, der Europaliga
+            des BMX. Nach dem 1. und 2. Lauf in Verona ging es über Ostern nach Zolder in Belgien.
+          </p>
+          <p>
+            Die RG-Hamburg Fahrer*innen schlugen sich wacker und wir gratulieren Chrissy
+            zu Platz 4 in der Klasse Cruiser Women! Die Ergebnisse im Detail:
+          </p>
+          <ul>
+            <li>Kilian Schlapper (11/12): 2x Halbfinale</li>
+            <li>Till Behnke (15/16): 1/8 Finale</li>
+            <li>Momme Swanson (17-29): 1/8-Finale</li>
+            <li>Chrissy Wiesner (Cruiser Women): Halbfinale & Finale Platz 4</li>
+          </ul>
+          <p>
+            Nicht unterschlagen wollen wir, dass unser Trainer Kristaps im 3. Lauf auf den
+            ersten Platz der Men 25+ gefahren ist. Glückwunsch!
+          </p>
+          <p>
+            <a href="https://www.jstiming.nl/uec-20233-zolder-bel/">Ergebnisse 8.4</a> •
+            <a href="https://www.jstiming.nl/uec-20233-4-zolder-bel/">Ergebnisse 9.4.</a> •
+            <a href="https://www.jstiming.nl/uec-20234-zolder-bel/">Ergebnisse 10.4.</a>
+          </p>
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/01/kili_zolder.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>💨 Nächste Rennen</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td>22.04. - 23.04.</td>
+            <td>
+              NordCup in <strong>Vechta</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=752">Anmeldung</a> bis 20.04. •
+              <a href="https://www.eventim-light.com/de/a/6429b9689483e825c5c68122/e/6429bc0a21942b3c457c9c42?fbclid=IwAR2AMVDa-p2kYcgih0_D1-t2eATPyBO_uC6iAsK6gJO4yYN0E-Q9b2jOzOQ">Campinganmeldung</a> •
+              Fahrerlager
+            </td>
+          </tr>
+          <tr>
+            <td>01.05.</td>
+            <td>
+              EastCup im <strong>Mellowpark Berlin</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=768">Anmeldung</a> bis 27.04. •
+              Camping an der Bahn
+            </td>
+          </tr>
+          <tr>
+            <td>13.05. - 14.05.</td>
+            <td>
+              Bundesliga in <strong>Weiterstadt</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
+              Campinginfo folgt •
+              Fahrerlager
+            </td>
+          </tr>
+          <tr>
+            <td>03.06.</td>
+            <td>
+              Norddeutsche Meisterschaft in <strong>Bispingen</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>04.06.</td>
+            <td>
+              NordCup in <strong>Bispingen</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>17.06. - 18.06.</td>
+            <td>
+              NordCup in <strong>Bielefeld</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>01.07. - 02.07.</td>
+            <td>
+              Deutsche Meisterschaft in <strong>Stuttgart</strong>
+            </td>
+          </tr>
+          <tr>
+            <td>06.07. - 09.07.</td>
+            <td>
+              Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
+              Qualifikation •
+              <a href="https://bmxbesancon.fr/championnats-europe-2023/">Campinganmeldung</a> •
+            </td>
+          </tr>
+          <tr>
+            <td>04.08. - 13.08.</td>
+            <td>
+              Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>📆 Termine (Verein)</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td>01.06.</td>
+            <td>
+              19:30 Uhr BMX Spartentreff (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U4Mzg3ZjgtOWM0Yi00ZDU4LTk2YjctNGRhY2U0NTM3MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%2263c66f0c-1c62-4833-8dba-42236bb56f09%22%2c%22Oid%22%3a%221c1d5afa-bfe8-47df-8334-8ca0db95b094%22%7d">Online via Teams</a>)
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>🏋️‍♀️ Trainingstermine</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td>Montags</td>
+            <td>
+              17:30 Uhr Training &lt;14<br />
+              19:00 Uhr Training 14+
+            </td>
+          </tr>
+          <tr>
+            <td>Dienstags</td>
+            <td>
+              17:00 Uhr Leistungsgruppe &lt;14<br />
+              18:30 Uhr Leistungsgruppe 14+
+            </td>
+          </tr>
+          <tr>
+            <td>Mittwochs</td>
+            <td>
+              18:00 Uhr Training für alle
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>📬 Feedback</h3>
+          <p>
+            Du hast bis zum Ende gelesen, Danke! Wenn Du Feedback
+            hast, <a href="mailto:news@rg-hamburg.de">schreibe mir gerne</a>
+            oder sprich mich an der Bahn an!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="35%">
+        <mj-table>
+          <tr style="list-style: none;line-height:1">
+            <td>
+              <a href="https://www.instagram.com/bmx_rghamburg/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/instagram.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://www.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/website.png" />
+              </a>
+            </td>
+            <td>
+              <a href="mailto:news@rg-hamburg.de">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/mail.png" />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
