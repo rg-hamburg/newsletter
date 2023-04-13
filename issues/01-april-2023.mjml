@@ -43,6 +43,7 @@
       <mj-column width="45%">
         <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #01 - April 2023</mj-text>
         <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding-top="30px">
@@ -250,6 +251,15 @@
             </td>
           </tr>
           <tr>
+            <td>19.05. - 21.05.</td>
+            <td>
+              3 Nations Cup in <strong>Ahnatal</strong><br />
+              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a> •
+              Camping ist ausgebucht •
+              Fahrerlager
+            </td>
+          </tr>
+          <tr>
             <td>03.06.</td>
             <td>
               Norddeutsche Meisterschaft in <strong>Bispingen</strong>
@@ -354,7 +364,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="35%">
-        <mj-table>
+        <mj-table align="center">
           <tr style="list-style: none;line-height:1">
             <td>
               <a href="https://www.instagram.com/bmx_rghamburg/">
@@ -373,6 +383,7 @@
             </td>
           </tr>
         </mj-table>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
