@@ -27,7 +27,7 @@ https://dev.mailjet.com/email/guides/send-api-v31/#send-a-basic-email
 MJ_APIKEY_PUBLIC=
 MJ_APIKEY_PRIVATE=
 ISSUE_CONTENT=$(cat docs/${ISSUE}.html)
-jq -n --arg ISSUE_CONTENT ${ISSUE_CONTENT} -f mailjet-api-payload.json > ${ISSUE}.json
+jq -n --arg ISSUE_CONTENT ${ISSUE_CONTENT} -f mailjet-api-payload-test.json > ${ISSUE}.json
 curl -s \
 	-X POST \
 	--user "${MJ_APIKEY_PUBLIC}:${MJ_APIKEY_PRIVATE}" \

@@ -1,0 +1,17 @@
+{
+    "Messages": [
+        {
+            "From": {
+                "Email": "news@rg-hamburg.de",
+                "Name": "Torsten von der RG Hamburg"
+            },
+            "To": [
+                {
+                    "Email": "bmx-alle@rg-hamburg.de"
+                }
+            ],
+            "Subject": "[BMX] Newsletter #01 April 2023",
+            "HTMLPart": "\($ISSUE_CONTENT)"
+        }
+    ]
+}
