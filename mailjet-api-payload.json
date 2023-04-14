@@ -7,11 +7,11 @@
             },
             "To": [
                 {
-                    "Email": "bmx-alle@rg-hamburg.de"
+                    "Email": "\($receipient)"
                 }
             ],
-            "Subject": "[BMX] Newsletter #01 April 2023",
-            "HTMLPart": "\($ISSUE_CONTENT)"
+            "Subject": "[BMX] Newsletter \($issue)",
+            "HTMLPart": "\($content)"
         }
     ]
 }
