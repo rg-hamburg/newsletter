@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>RG Hamburg BMX Newsletter #01 April 2023</mj-title>
+    <mj-title>RG Hamburg BMX Newsletter #02 April 2023</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
     <mj-attributes>
       <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
@@ -39,7 +39,7 @@
   <mj-body>
     <mj-section>
       <mj-column width="100%">
-        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_joshi.jpg"></mj-image>
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -49,7 +49,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #01 - April 2023</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #02 - April 2023</mj-text>
         <mj-divider border-width="2px" border-color="#616161"></mj-divider>
         <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
       </mj-column>
@@ -58,25 +58,15 @@
       <mj-column width="100%">
         <mj-text>
           <p>
-            Willkommen zum ersten BMX-Newsletter der RG Hamburg!
+            So schnell lesen wir uns schon wieder. Kurz vor Start der
+            BMX-Rennen kommen hier noch ein paar Updates. Im letzten
+            Newsletter hat der Fehlerteufel ordentlich gewütet und ich
+            habe doch glatt ein paar Rennen in der Liste vergessen 😱
           </p>
           <p>
-            In Zukunft möchte ich Euch Neuigkeiten, Ankündigungen
-            und Termine in komprimierter und kuratierter Form in einem
-            Newsletter zusammenfassen. Ich hoffe, die Informationsflut
-            besser zu kanalisieren und wichtigen Ankündigungen einen
-            besseren Kontext zu geben.
-          </p>
-          <p>
-            Deshalb bitte ich Euch, Ankündigungen, Informationen und Termine
-            nicht mehr an den BMX-Mailverteiler zu schicken, sondern an
-            <a href="mailto:news@rg-hamburg.de">news@rg-hamburg.de</a>.
-            Ich fasse alles zusammen und verschicke zukünftig alle paar
-            Wochen diesen Newsletter.
-          </p>
-          <p>
-            In diesem Newsletter dreht es sich vor allem um die
-            kommende Rennsaison.
+            Denkt daran, Euch noch für den NordCup in Vechta anzumelden,
+            falls noch nicht geschehen – die Deadline ist morgen und
+            Nachmeldungen sind nicht möglich.
           </p>
           <p>Happy BMXing, Torsten</p>
         </mj-text>
@@ -88,7 +78,26 @@
       </mj-column>
     </mj-section>
 
-
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>❌ EastCup in Berlin am 1. Mai abgesagt</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Leider wurde der EastCup im Mellowpark Berlin am 01. Mai
+            <a href="https://www.facebook.com/EastCupBmx/posts/pfbid05q3Kk2kb5np4TkguBqVXchtoJekBYWH8kNJEBKCjhwdFM8Bungh3uLLvZYmFVLznl?__cft__[0]=AZUCEZT_4ZvDNIuXTqD_OCtBYdB_m9jEzTPYSLaEAqDWnGh26DGJRT5MbqpYLjTAYDMsPum0n5E17ANktlsIYuWD0K2yYLYeWPQfA8ROmoRtS00tYTczaRgi7Oxtz-F7Vqf_tw878VM_Bk9XK2m_M2hGaxZ0yEb4XQaxMJ3pOZvKIFxwVLrkPhE-YpoKGA3VUVxm6gMzRiqYAYl11oBVLh0AOF94mOvP5rbhqX8W21lTPQ&__tn__=%2CO%2CP-R">abgesagt</a>.
+            Der Parkplatz der Bahn ist noch nicht befahrbar und der
+            Zugang zur Bahn nicht möglich.
+          </p>
+          <p>
+            Wer trotzdem ein chilliges Wochenende im Mellowpark verbringen
+            möchte, kann dies beim 6. Lauf des EastCup am 17.9.2023 tun. Bis
+            dahin sollte der Parkplatz wohl wieder befahrbar sein.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <mj-section>
       <mj-column width="45%">
@@ -111,20 +120,12 @@
             </td>
           </tr>
           <tr>
-            <td>01.05.</td>
-            <td>
-              EastCup im <strong>Mellowpark Berlin</strong><br />
-              <a href="https://sportslists.eu/results/upcoming?pk=768">Anmeldung</a> bis 27.04. •
-              Camping an der Bahn
-            </td>
-          </tr>
-          <tr>
             <td>13.05. - 14.05.</td>
             <td>
               Bundesliga in <strong>Weiterstadt</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
               Campinginfo folgt •
-              Fahrerlager •<br />
+              Fahrerlager<br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
           </tr>
@@ -134,8 +135,16 @@
               3 Nations Cup in <strong>Ahnatal</strong><br />
               <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a> •
               Camping ist ausgebucht •
-              Fahrerlager •<br />
+              Fahrerlager<br />
               <em>Vom Landesverband gefördertes Rennen</em>
+            </td>
+          </tr>
+          <tr>
+            <td>25.05. - 28.05.</td>
+            <td>
+              European Cup in <strong>Benátky (Tschechien)</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=742">Anmeldung</a> bis 08.05. •
+              <a href="http://www.bmxbenatky.cz/ec2023/">Camping</a>
             </td>
           </tr>
           <tr>
@@ -178,6 +187,7 @@
               Bundesliga in <strong>Hamburg</strong>
             </td>
           </tr>
+<!--
           <tr>
             <td>15.09. - 17.09.</td>
             <td>
@@ -205,6 +215,7 @@
               NordCup Finale in <strong>Bremen</strong>
             </td>
           </tr>
+-->
         </mj-table>
       </mj-column>
     </mj-section>
