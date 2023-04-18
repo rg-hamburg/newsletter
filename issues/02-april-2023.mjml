@@ -90,8 +90,13 @@
           <p>
             Am Freitag vor dem Rennen in Vechta (21.04.) habt Ihr die Möglichkeit
             auf der Bahn in Vechta an einem Training mit Kristaps Veksa teilzunehmen. Es startet
-            um 18:30 Uhr und kostet €20 pro Teilnehmer. Anmelden könnt Ihr
+            um 18:30 Uhr und kostet €20 pro Teilnehmer.
+            Anmelden könnt Ihr
             Euch per <a href="veksakristaps@gmail.com">E-Mail</a>.
+          </p>
+          <p>
+            Von 16:00 bis 18:00 Uhr gibt es alternativ
+            noch ein freies Fahren zum Kennenlernen der Bahn in Vechta.
           </p>
         </mj-text>
       </mj-column>
@@ -168,7 +173,7 @@
             <td>19.05. - 21.05.</td>
             <td>
               3 Nations Cup in <strong>Ahnatal</strong><br />
-              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a> •
+              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a> bis 03.05. •
               Camping ist ausgebucht •
               Fahrerlager<br />
               <em>Vom Landesverband gefördertes Rennen</em>
@@ -338,8 +343,13 @@
               </a>
             </td>
             <td>
+              <a href="https://newsletter.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
+              </a>
+            </td>
+            <td>
               <a href="mailto:news@rg-hamburg.de">
-                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/mail.png" />
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/envelope.png" />
               </a>
             </td>
           </tr>
