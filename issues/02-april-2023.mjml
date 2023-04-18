@@ -84,6 +84,21 @@
     <mj-section>
       <mj-column>
         <mj-text>
+          <h3>🚜 Donnerstag Bahnbau</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Der Regen hat der Bahn ganz gut zugesetzt. Eric freut sich über
+            Unterstützung beim Walzen, Abrütteln und Shapen der Bahn.
+            Los gehts Donnerstag, den 20.04. um 17:30 Uhr.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
           <h3>🏋️‍♀️ Training mit Kristaps Veksa in Vechta</h3>
         </mj-text>
         <mj-text>
@@ -273,6 +288,12 @@
           <h3>📆 Termine (Verein)</h3>
         </mj-text>
         <mj-table>
+          <tr>
+            <td>20.04.</td>
+            <td>
+              17:30 Uhr Bahnbau
+            </td>
+          </tr>
           <tr>
             <td>04.05.</td>
             <td>
