@@ -58,15 +58,18 @@
       <mj-column width="100%">
         <mj-text>
           <p>
-            So schnell lesen wir uns schon wieder. Kurz vor Start der
-            BMX-Rennen kommen hier noch ein paar Updates. Im letzten
-            Newsletter hat der Fehlerteufel ordentlich gewütet und ich
-            habe doch glatt ein paar Rennen in der Liste vergessen 😱
+            Hallöchen!
           </p>
           <p>
-            Denkt daran, Euch noch für den NordCup in Vechta anzumelden,
-            falls noch nicht geschehen – die Deadline ist morgen und
-            Nachmeldungen sind nicht möglich.
+            So schnell lesen wir uns schon wieder. Das Training wird voller,
+            die Sonne wärmer - wir kommen in die heiße Zeit der BMX-Rennen.
+            Deshalb gibt es hier noch ein paar schnelle Updates.
+          </p>
+          <p>
+            Im letzten
+            Newsletter hat der Fehlerteufel ordentlich gewütet und ich
+            habe doch glatt ein paar Rennen in der Liste vergessen 😱
+            Die sind jetzt nachgetragen und alle Links aktualisiert.
           </p>
           <p>Happy BMXing, Torsten</p>
         </mj-text>
@@ -75,6 +78,22 @@
     <mj-section>
       <mj-column width="45%">
         <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🏋️‍♀️ Training mit Kristaps Veksa in Vechta</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Am Freitag vor dem Rennen in Vechta (21.04.) habt Ihr die Möglichkeit
+            auf der Bahn in Vechta an einem Training mit Kristaps Veksa teilzunehmen. Es startet
+            um 18:30 Uhr und kostet €20 pro Teilnehmer. Anmelden könnt Ihr
+            Euch per <a href="veksakristaps@gmail.com">E-Mail</a>.
+          </p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -94,6 +113,22 @@
             Wer trotzdem ein chilliges Wochenende im Mellowpark verbringen
             möchte, kann dies beim 6. Lauf des EastCup am 17.9.2023 tun. Bis
             dahin sollte der Parkplatz wohl wieder befahrbar sein.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🔀 Anmeldung für den European Cup</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Die Anmeldung für die Veranstaltungen des European Cup (z.B. in Benátky)
+            erfolgt jetzt über <a href="https://registration.jstiming.com/">jstiming.com</a>.
+            Solltet Ihr Euch bereits über Sportslists angemeldet haben, wiederholt
+            Eure Anmeldung bitte bei JSTiming.
           </p>
         </mj-text>
       </mj-column>
@@ -124,7 +159,7 @@
             <td>
               Bundesliga in <strong>Weiterstadt</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
-              Campinginfo folgt •
+              <a href="https://bmxweiterstadt.de/bundesliga/">Campinganmeldung</a> •
               Fahrerlager<br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
@@ -143,7 +178,7 @@
             <td>25.05. - 28.05.</td>
             <td>
               European Cup in <strong>Benátky (Tschechien)</strong><br />
-              <a href="https://sportslists.eu/results/upcoming?pk=742">Anmeldung</a> bis 08.05. •
+              <a href="https://registration.jstiming.com/">Anmeldung</a> bis 08.05. •
               <a href="http://www.bmxbenatky.cz/ec2023/">Camping</a>
             </td>
           </tr>
@@ -178,6 +213,14 @@
               Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
               Qualifikation •
               <a href="https://bmxbesancon.fr/championnats-europe-2023/">Campinganmeldung</a> •<br />
+              <em>Vom Landesverband gefördertes Rennen</em>
+            </td>
+          </tr>
+          <tr>
+            <td>04.08. - 13.08.</td>
+            <td>
+              Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
+              Qualifikation<br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
           </tr>
