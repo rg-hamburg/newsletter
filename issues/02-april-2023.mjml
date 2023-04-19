@@ -10,11 +10,14 @@
       <mj-divider border-width="1px" border-color="#616161"></mj-divider>
     </mj-attributes>
     <mj-style>
-      h3 {
+      h3, h4 {
         font-weight: 300 !important;
         font-size: 16px;
         color: #003366;
         margin-bottom: 0px;
+      }
+      h4 {
+        font-size: 14px;
       }
       a {
         text-decoration: underline;
@@ -84,7 +87,7 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h3>🚜 Donnerstag Bahnbau</h3>
+          <h3>🚜 Donnerstag (morgen) Bahnbau</h3>
         </mj-text>
         <mj-text>
           <p>
@@ -99,19 +102,46 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h3>🏋️‍♀️ Training mit Kristaps Veksa in Vechta</h3>
+          <h3>💨 NordCup in Vechta</h3>
         </mj-text>
         <mj-text>
           <p>
+            Der NordCup in Vechta steht dieses Wochenende an. Hier
+            die letzten Informationen. Den zeitlichen Ablauf findet
+            Ihr in der <a href="https://newsletter.rg-hamburg.de/assets/02/ausschreibung_norducp_2023.pdf">NordCup Ausschreibung 2023</a>
+            (Zweitages-Rennen).
+          </p>
+          <h4>Training mit Kristaps Veksa</h4>
+          <p>
             Am Freitag vor dem Rennen in Vechta (21.04.) habt Ihr die Möglichkeit
-            auf der Bahn in Vechta an einem Training mit Kristaps Veksa teilzunehmen. Es startet
-            um 18:30 Uhr und kostet €20 pro Teilnehmer.
-            Anmelden könnt Ihr
-            Euch per <a href="veksakristaps@gmail.com">E-Mail</a>.
+            auf der Bahn in Vechta an einem Training mit <a href="https://www.veksatraining.com/">Kristaps Veksa</a> teilzunehmen.
+            Es gibt zwei zwei Trainingszeiten von 17:00 bis 18:30 und 18:30 bis 20:00 Uhr.
+            Kostenpunkt sind €20 pro Teilnehmer.
+            Anmelden könnt Ihr Euch per <a href="veksakristaps@gmail.com">E-Mail</a>.
+          </p>
+          <h4>Freies Fahren am Freitag</h4>
+          <p>
+            Von 16:00 Uhr bis 18:30 Uhr gibt es ein freies Fahren
+            auf der Bahn in Vechta, eine super Möglichkeit die Bahn
+            kennenzulernen.
+          </p>
+          <h4>Fahrerlager vor Ort</h4>
+          <p>
+            Während der beiden Renntage organisiert die RG Hamburg ein
+            Fahrerlager für die Aktiven. Bitte bringt ausreichend Trinken
+            & Snacks sowie einen Campingstuhl mit. Wir schicken Eure Kids
+            auf die Reise in den Vorstart, so dass Ihr Euch auf das
+            Anfeuern und Jubeln konzentrieren könnt.
           </p>
           <p>
-            Von 16:00 bis 18:00 Uhr gibt es alternativ
-            noch ein freies Fahren zum Kennenlernen der Bahn in Vechta.
+            Wir treffen uns Samstag um 10:00 Uhr und Sonntag um
+            9:00 Uhr am RG Hamburg Zelt. Denkt am Samstag an Eure
+            Rennlizenz!
+          </p>
+          <h4>Duschzeiten</h4>
+          <p>
+            Die Duschen im Schwimmbad sind zum Duschen von 8:00-10:00
+            und 18:00-21:00 Uhr geöffnet.
           </p>
         </mj-text>
       </mj-column>
@@ -364,7 +394,7 @@
               </a>
             </td>
             <td>
-              <a href="https://newsletter.rg-hamburg.de/">
+              <a href="https://newsletter.rg-hamburg.de/02-april-2023.html">
                 <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
               </a>
             </td>
