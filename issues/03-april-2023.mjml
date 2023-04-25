@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>RG Hamburg BMX Newsletter #02 April 2023</mj-title>
+    <mj-title>RG Hamburg BMX Newsletter #03 April 2023</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
     <mj-attributes>
       <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
@@ -42,7 +42,7 @@
   <mj-body>
     <mj-section>
       <mj-column width="100%">
-        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_mathis.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -52,7 +52,7 @@
     </mj-section>
     <mj-section>
       <mj-column width="45%">
-        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #03 - Mai 2023</mj-text>
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe #03 - April 2023</mj-text>
         <mj-divider border-width="2px" border-color="#616161"></mj-divider>
         <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
       </mj-column>
@@ -74,7 +74,179 @@
       </mj-column>
     </mj-section>
 
-- Camping in Stuttgart
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🏋️‍♀️ Neue Trainingszeiten ab Mai</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Der Sommer ist zurück und ab Mai (nächste Woche!)
+            gibt es leicht angepasste Trainingszeiten. Die Gruppe
+            am Mittwoch wird analog zu Montag geteilt und die
+            Anfangszeiten angepasst.
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td>Montags</td>
+            <td>
+              17:30 Uhr Training &lt;14<br />
+              19:00 Uhr Training 14+
+            </td>
+          </tr>
+          <tr>
+            <td>Dienstags</td>
+            <td>
+              17:00 Uhr Leistungsgruppe &lt;14<br />
+              18:30 Uhr Leistungsgruppe 14+
+            </td>
+          </tr>
+          <tr>
+            <td>Mittwochs</td>
+            <td>
+              17:30 Uhr Training &lt;14<br />
+              19:00 Uhr Training 14+
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text>
+          <p>
+            Das Training Montag machen
+            Momme & Joshi, am Mittwoch Timo und Momme.
+            Donnerstags ist freies Fahren nach dem
+            Schnuppertraining.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🚴‍♂️ Trainingslager in Bispingen</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            ...
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>⛺️ Camping bei der Deutschen Meisterschaft in Stuttgart</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            bei der DM in Stuttgart 1-2 Juli wird es vor Ort an der Bahn kein Camping geben.
+
+Wer trotzdem Campen möchte kann das z.B. hier tun:
+
+Campingplatz Stuttgart*Cannstatter Wasen*Mercedesstr. 40*70372 Stuttgart*Telefon 0711 55 66 96
+info@campingplatz-stuttgart.de
+Frau Ilona Wittenbeck
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>💰 Vereinsrabatt bei CCH</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            ...
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🚀 Nachlese NordCup in Vechta</h3>
+        </mj-text>
+        <mj-text align="center" padding="0">
+          <p>
+            <img width="150px" src="https://newsletter.rg-hamburg.de/assets/03/vechta_01.jpg" />
+            <img width="150px" src="https://newsletter.rg-hamburg.de/assets/03/vechta_02.jpg" />
+            <img width="150px" src="https://newsletter.rg-hamburg.de/assets/03/vechta_03.jpg" />
+          </p>
+        </mj-text>
+        <mj-text>
+          <p>
+            Bei Kaiserwetter ist die RG Hamburg mit einem großen Starterfeld
+            zum 1. und 2. NordCup-Lauf in Vechta angetreten. Für viele von uns
+            war es das erste Rennen der Saison und für ein paar das erste
+            BMX-Rennen überhaupt. Die älteren Jahrgänge haben souverän abgeliefert,
+            die jüngeren mussten sich in ihren neuen Altersklassen erst
+            einmal zurecht finden.
+          </p>
+          <p>
+            Die Organisation und Stimmung war bombastisch und der erste Lauf wurde
+            im Schwimmbad begossen, wir kommen wieder 😃
+          </p>
+          <p>
+            Die Ergebnisse der RG Hamburg Fahrer im einzelnen:
+          </p>
+          <h4>Samstag, 22.04</h4>
+          <ul>
+            <li>Chrissy Wiesner (Cruiser Women): Platz 1</li>
+            <li>Mathis König (Men 17-29): Platz 1</li>
+            <li>Till Behnke (Cruiser Men): Platz 1</li>
+            <li>Till Behnke (Boys 15/16): Platz 1</li>
+            <li>Mark Teichmann (Men 30+): Platz 2</li>
+            <li>Timo Leroy (Men 17-29): Platz 4</li>
+            <li>Louis Sellmann (Boys 13/14):  Platz 5</li>
+            <li>Ben Rieckenberg (Boys 9/10): Platz 6</li>
+            <li>Mats Hatje (Boys 13/14): Platz 6</li>
+            <li>Johann Köster (Boys 9/10): Halbfinale</li>
+            <li>Lucas Thiel (Boys 11/12): Halbfinale</li>
+            <li>Kilian Schlapper (Boys 13/14): Halbfinale</li>
+            <li>Lasse Vollbrecht (Boys 9/10): Viertelfinale</li>
+            <li>Mattis Willhaus (Boys 9/10): Viertelfinale</li>
+            <li>Mateo Miranda Zevallos (Boys 9/10): Viertelfinale</li>
+            <li>Jonas Janiak (Boys 9/10): Viertelfinale</li>
+            <li>Nic Maiwald (Boys 11/12): Vorläufe</li>
+            <li>Max Behnke (Boys 11/12): Vorläufe</li>
+            <li>Mattis Zepter (Boys 13/14): Vorläufe</li>
+            <li>Lian Sieck (Boys 13/14): Vorläufe</li>
+            <li>Tim Ball (Boys 15/16): Vorläufe</li>
+          </ul>
+          <h4>Sonntag, 23.04.</h4>
+          <ul>
+            <li>Till Behnke (Cruiser Men): Platz 1</li>
+            <li>Till Behnke (Boys 15/16): Platz 1</li>
+            <li>Mathis König (Men 17-29): Platz 1</li>
+            <li>Joshua Stürmer (Men 17-29): Platz 3</li>
+            <li>Ben Rieckenberg (Boys 9/10): Platz 4</li>
+            <li>Louis Sellmann (Boys 13/14): Platz 4</li>
+            <li>Johann Köster (Boys 9/10): Platz 6</li>
+            <li>Tim Ball (Boys 15/16): Platz 6</li>
+            <li>Timo Leroy (Men 17-29): Platz 7</li>
+            <li>Jonas Janiak (Boys 9/10): Halbfinale</li>
+            <li>Lucas Thiel (Boys 11/12): Halbfinale</li>
+            <li>Nic Maiwald (Boys 11/12): Halbfinale</li>
+            <li>Mats Hatje (Boys 13/14): Halbfinale</li>
+            <li>Mattis Willhaus (Boys 9/10): Vorläufe</li>
+            <li>Lasse Vollbrecht (Boys 9/10): Vorläufe</li>
+            <li>Mateo Miranda Zevallos (Boys 9/10): Vorläufe</li>
+            <li>Max Behnke (Boys 11/12): Vorläufe</li>
+            <li>Mattis Zepter (Boys 13/14): Vorläufe</li>
+            <li>Lian Sieck (Boys 13/14): Vorläufe</li>
+            <li>Momme Swanson (Men 17-29): Vorläufe</li>
+          </ul>
+          <p>
+            <a href="https://bmxraceresults.com/BMX%20Germany%202023/BMX%20Nord-Cup/BMX%20Nord-Cup%202023%20Lauf%201,%20Vechta/Event%20Result%20List.html">Ergebnisse Lauf 1</a> •
+            <a href="https://bmxraceresults.com/BMX%20Germany%202023/BMX%20Nord-Cup/BMX%20Nord-Cup%202023%20Lauf%202,%20Vechta/Event%20Result%20List.html">Ergebnisse Lauf 2</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <mj-section>
       <mj-column width="45%">
@@ -92,8 +264,7 @@
             <td>
               Bundesliga in <strong>Weiterstadt</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
-              <a href="https://bmxweiterstadt.de/bundesliga/">Campinganmeldung</a> •
-              Fahrerlager<br />
+              <a href="https://bmxweiterstadt.de/bundesliga/">Campinganmeldung</a><br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
           </tr>
@@ -202,12 +373,6 @@
         </mj-text>
         <mj-table>
           <tr>
-            <td>20.04.</td>
-            <td>
-              17:30 Uhr Bahnbau
-            </td>
-          </tr>
-          <tr>
             <td>04.05.</td>
             <td>
               20:00 Uhr BMX Spartentreff (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U4Mzg3ZjgtOWM0Yi00ZDU4LTk2YjctNGRhY2U0NTM3MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%2263c66f0c-1c62-4833-8dba-42236bb56f09%22%2c%22Oid%22%3a%221c1d5afa-bfe8-47df-8334-8ca0db95b094%22%7d">Online via Teams</a>)
@@ -219,7 +384,7 @@
     <mj-section>
       <mj-column>
         <mj-text padding-bottom="0px">
-          <h3>🏋️‍♀️ Trainingstermine</h3>
+          <h3>🏋️‍♀️ Trainingstermine (ab Mai)</h3>
         </mj-text>
         <mj-table>
           <tr>
@@ -239,7 +404,8 @@
           <tr>
             <td>Mittwochs</td>
             <td>
-              18:00 Uhr Training für alle
+              17:30 Uhr Training &lt;14<br />
+              19:00 Uhr Training 14+
             </td>
           </tr>
         </mj-table>
@@ -277,7 +443,7 @@
               </a>
             </td>
             <td>
-              <a href="https://newsletter.rg-hamburg.de/03-mai-2023.html">
+              <a href="https://newsletter.rg-hamburg.de/03-april-2023.html">
                 <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
               </a>
             </td>
