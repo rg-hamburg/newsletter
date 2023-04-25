@@ -61,9 +61,19 @@
       <mj-column width="100%">
         <mj-text>
           <p>
-            Hallöchen!
+            Was für ein BMX-Wochenende in Vechta!
           </p>
-
+          <p>
+            Es hat wieder riesig Spaß gemacht aber nein Herz muss sich noch von
+            <a href="https://www.instagram.com/reel/CrV5eqaoxhc/">Tills Finalläufen</a>
+            erholen (und die 2.800 Leute die den Insta-Reel geschaut haben sicherlich auch) 😃
+          </p>
+          <p>
+            Endlich steht so eine Art Sommer vor der Tür und das heißt:
+            Sommermodus bei den Trainingszeiten ab Mai! Darüber hinaus
+            gibt es noch mehr Neuigkeiten und deshalb presse ich diesen
+            dritten Newsletter auch noch in den April.
+          </p>
           <p>Happy BMXing, Torsten</p>
         </mj-text>
       </mj-column>
@@ -102,10 +112,18 @@
             </td>
           </tr>
           <tr>
-            <td>Mittwochs</td>
+            <td><b>Mittwochs</b></td>
             <td>
-              17:30 Uhr Training &lt;14<br />
-              19:00 Uhr Training 14+
+              <b>
+                17:30 Uhr Training &lt;14<br />
+                19:00 Uhr Training 14+
+              </b>
+            </td>
+          </tr>
+          <tr>
+            <td>Donnerstags</td>
+            <td>
+                18:30 Uhr Freies Fahren
             </td>
           </tr>
         </mj-table>
@@ -140,13 +158,16 @@
         </mj-text>
         <mj-text>
           <p>
-            bei der DM in Stuttgart 1-2 Juli wird es vor Ort an der Bahn kein Camping geben.
-
-Wer trotzdem Campen möchte kann das z.B. hier tun:
-
-Campingplatz Stuttgart*Cannstatter Wasen*Mercedesstr. 40*70372 Stuttgart*Telefon 0711 55 66 96
-info@campingplatz-stuttgart.de
-Frau Ilona Wittenbeck
+            Bei der Deutschen Meisterschaft in Stuttgart am 1. und 2. Juli
+            wird es vor Ort an der Bahn kein Camping geben. Wer trotzdem
+            Campen möchte, dem sei der
+            <a href="http://www.campingplatz-stuttgart.de/">Campingplatz an der Cannstatter Wasen</a>
+            empfohlen. Der Campingplatz ist ca. 45 Minuten mit den Öffis
+            oder 20 Minuten mit dem Auto vom Veranstaltungsort entfernt.
+          </p>
+          <p>
+            Noch gibt es Plätze, es wäre ja schön wenn wir
+            dort eine Hamburger Ecke hinbekommen!
           </p>
         </mj-text>
       </mj-column>
@@ -155,11 +176,18 @@ Frau Ilona Wittenbeck
     <mj-section>
       <mj-column>
         <mj-text>
-          <h3>💰 Vereinsrabatt bei CCH</h3>
+          <h3>💰 Vereinsrabatt bei Concept Cycles Hamburg</h3>
         </mj-text>
         <mj-text>
           <p>
-            ...
+            Bei <em>Concept Cycles Hamburg</em> bekommt die RG Hamburg
+            ab sofort 20% auf Equipment (außer Fahrräder), vor allem spannend
+            für z.B. Hosen und und Schuhe.
+          </p>
+          <p>
+            Der Verkauf befindet sich am Jungfernstieg 40  und das
+            Service Center in der Meisenstraße 19a. Die Identifikation
+            läuft über die EasyVerein App.
           </p>
         </mj-text>
       </mj-column>
@@ -242,7 +270,8 @@ Frau Ilona Wittenbeck
           </ul>
           <p>
             <a href="https://bmxraceresults.com/BMX%20Germany%202023/BMX%20Nord-Cup/BMX%20Nord-Cup%202023%20Lauf%201,%20Vechta/Event%20Result%20List.html">Ergebnisse Lauf 1</a> •
-            <a href="https://bmxraceresults.com/BMX%20Germany%202023/BMX%20Nord-Cup/BMX%20Nord-Cup%202023%20Lauf%202,%20Vechta/Event%20Result%20List.html">Ergebnisse Lauf 2</a>
+            <a href="https://bmxraceresults.com/BMX%20Germany%202023/BMX%20Nord-Cup/BMX%20Nord-Cup%202023%20Lauf%202,%20Vechta/Event%20Result%20List.html">Ergebnisse Lauf 2</a> •
+            <a href="https://www.dropbox.com/sh/zvodevvcyiqajgn/AAAOGijDHQtd4u2BcXqWtbv2a?dl=0">Fotos</a>
           </p>
         </mj-text>
       </mj-column>
@@ -406,6 +435,12 @@ Frau Ilona Wittenbeck
             <td>
               17:30 Uhr Training &lt;14<br />
               19:00 Uhr Training 14+
+            </td>
+          </tr>
+          <tr>
+            <td>Donnerstags</td>
+            <td>
+                18:30 Uhr Freies Fahren
             </td>
           </tr>
         </mj-table>
