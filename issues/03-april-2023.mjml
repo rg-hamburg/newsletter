@@ -129,8 +129,8 @@
         </mj-table>
         <mj-text>
           <p>
-            Das Training Montag machen
-            Momme & Joshi, am Mittwoch Timo und Momme.
+            Das Training Montag machen Timo und Momme,
+            Dienstags Kristaps und am Mittwoch Momme und Joshi.
             Donnerstags ist freies Fahren nach dem
             Schnuppertraining.
           </p>
@@ -188,6 +188,34 @@
             Der Verkauf befindet sich am Jungfernstieg 40  und das
             Service Center in der Meisenstraße 19a. Die Identifikation
             läuft über die EasyVerein App.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🏆 Aktuelle Rangliste EM & WM Qualifikation 2023</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Für die Teilnahme an der Europa- und Weltmeisterschaft muss
+            ein*e Fahrer*in sich über die Teilnahme an nationalen Rennen
+            qualifizieren. Jeder Lauf in jedem Rennen gibt Punkte. Diese
+            werden addiert und die <em>12 besten eines Jahrganges</em> dürfen sich
+            für die EM bzw. WM anmelden.
+          </p>
+            Für Deutschland zählen als Qualifikationsrennen die <em>Deutsche Meisterschaft</em>,
+            <em>alle Bundesliga-Läufe</em> und <em>alle Rennen der 3 Nations Cup Serie</em>
+            (dort zählen die Punkte sogar doppelt). Der Qualifikationszeitraum läuft von
+            Anfang Juni bis Ende Mai.
+          <p>
+          <p>
+            Dieses Jahr können also noch Punkte bei der Bundesliga in Weiterstadt
+            und doppelt Punkte beim 3NC in Ahnatal gesammelt werden.
+            Hier findet Ihr die <a href="https://newsletter.rg-hamburg.de/assets/03/rangliste_quali_em_wm_2023.pdf">aktuelle Rangliste</a>
+            und die <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">vollständigen Qualifikationskriterien</a>.
           </p>
         </mj-text>
       </mj-column>
@@ -344,7 +372,7 @@
             <td>06.07. - 09.07.</td>
             <td>
               Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
-              Qualifikation •
+               <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a> •
               <a href="https://bmxbesancon.fr/championnats-europe-2023/">Campinganmeldung</a> •<br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
@@ -353,7 +381,7 @@
             <td>04.08. - 13.08.</td>
             <td>
               Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
-              Qualifikation<br />
+              <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a><br />
               <em>Vom Landesverband gefördertes Rennen</em>
             </td>
           </tr>
