@@ -14,7 +14,7 @@ First, render the issue into HTML into the docs folder.
 This will make it linkable under `https://newsletter.rg-hamburg.de/${ISSUE}.html`
 
 ```
-ISSUE=02-april-2023
+ISSUE=03-april-2023
 ./node_modules/.bin/mjml issues/${ISSUE}.mjml \
     --config.beautify true --config.minify true \
     --output docs/${ISSUE}.html
@@ -28,7 +28,7 @@ MJ_APIKEY_PUBLIC=
 MJ_APIKEY_PRIVATE=
 issue_content=$(cat docs/${ISSUE}.html)
 receipient="bmx-alle@..."
-issue="#01 April 2023"
+issue="#03 April 2023"
 
 # create MailJet payload
 jq -n --arg content ${issue_content} \

@@ -29,7 +29,7 @@
         vertical-align: top;
         padding-top: 5px;
       }
-      .schedule em {
+      .light, .schedule em {
         color: #888;
         font-style: normal;
       }
@@ -64,14 +64,15 @@
             Was für ein BMX-Wochenende in Vechta!
           </p>
           <p>
-            Es hat wieder riesig Spaß gemacht aber nein Herz muss sich noch von
+            Es hat wieder riesig Spaß gemacht aber mein Herz muss sich noch von
             <a href="https://www.instagram.com/reel/CrV5eqaoxhc/">Tills Finalläufen</a>
-            erholen (und die 2.800 Leute die den Insta-Reel geschaut haben sicherlich auch) 😃
+            erholen 😃
           </p>
           <p>
             Endlich steht so eine Art Sommer vor der Tür und das heißt:
             Sommermodus bei den Trainingszeiten ab Mai! Darüber hinaus
-            gibt es noch mehr Neuigkeiten und deshalb presse ich diesen
+            gibt es noch mehr Neuigkeiten (Trainingslager, Vereinsrabatt,
+            EM/WM-Qualifikation). Deshalb presse ich diesen
             dritten Newsletter auch noch in den April.
           </p>
           <p>Happy BMXing, Torsten</p>
@@ -100,41 +101,25 @@
           <tr>
             <td>Montags</td>
             <td>
-              17:30 Uhr Training &lt;14<br />
-              19:00 Uhr Training 14+
+              17:30 Uhr Training &lt;14 <span class="light">mit Momme & Joshi</span><br />
+              19:00 Uhr Training 14+ <span class="light">mit Paul</span>
             </td>
           </tr>
           <tr>
             <td>Dienstags</td>
             <td>
-              17:00 Uhr Leistungsgruppe &lt;14<br />
+              17:00 Uhr Leistungsgruppe &lt;14 <span class="light">mit Kristaps</span><br />
               18:30 Uhr Leistungsgruppe 14+
             </td>
           </tr>
           <tr>
             <td><b>Mittwochs</b></td>
             <td>
-              <b>
-                17:30 Uhr Training &lt;14<br />
-                19:00 Uhr Training 14+
-              </b>
-            </td>
-          </tr>
-          <tr>
-            <td>Donnerstags</td>
-            <td>
-                18:30 Uhr Freies Fahren
+              <b>17:30 Uhr Training &lt;14</b> <span class="light">mit Momme & Timo</span><br />
+              <b>19:00 Uhr Training 14+</b> <span class="light">mit Timo</span>
             </td>
           </tr>
         </mj-table>
-        <mj-text>
-          <p>
-            Das Training Montag machen Timo und Momme,
-            Dienstags Kristaps und am Mittwoch Momme und Joshi.
-            Donnerstags ist freies Fahren nach dem
-            Schnuppertraining.
-          </p>
-        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -145,7 +130,14 @@
         </mj-text>
         <mj-text>
           <p>
-            ...
+            Zur Vorbereitung auf die Norddeutsche Meisterschaft
+            und für ein bißchen mehr Fahrpraxis auf anderen BMX-Bahnen
+            veranstalten wir am <em>29. Mai (Pfingsmontag)</em> ein Trainingslager
+            auf der BMX-Bahn in Bispingen.
+          </p>
+          <p>
+            Details und Zeitablauf folgt in der nächsten Woche. Haltet
+            Euch den Tag bei Interesse frei!
           </p>
         </mj-text>
       </mj-column>
@@ -189,6 +181,9 @@
             Service Center in der Meisenstraße 19a. Die Identifikation
             läuft über die EasyVerein App.
           </p>
+          <p>
+           Danke Momme fürs Organisieren 👍
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -200,7 +195,12 @@
         </mj-text>
         <mj-text>
           <p>
-            Für die Teilnahme an der Europa- und Weltmeisterschaft muss
+            Generell muss man sich für BMX-Rennen ja nicht qualifizieren.
+            Auch die Bundesliga und der 3 Nations Cup, aber auch den
+            European Cup kann (und sollte!) jeder mal mitfahren.
+          </p>
+          <p>
+            Für die Teilnahme an der Europa- und Weltmeisterschaft allerdings muss
             ein*e Fahrer*in sich über die Teilnahme an nationalen Rennen
             qualifizieren. Jeder Lauf in jedem Rennen gibt Punkte. Diese
             werden addiert und die <em>12 besten eines Jahrganges</em> dürfen sich
@@ -212,9 +212,10 @@
             Anfang Juni bis Ende Mai.
           <p>
           <p>
-            Dieses Jahr können also noch Punkte bei der Bundesliga in Weiterstadt
+            Dieses Jahr können noch Qualifikationspunkte bei der Bundesliga in Weiterstadt
             und doppelt Punkte beim 3NC in Ahnatal gesammelt werden.
-            Hier findet Ihr die <a href="https://newsletter.rg-hamburg.de/assets/03/rangliste_quali_em_wm_2023.pdf">aktuelle Rangliste</a>
+            Hier findet Ihr die <a href="https://newsletter.rg-hamburg.de/assets/03/rangliste_quali_em_wm_2023.pdf">aktuelle Rangliste</a>,
+            die <a href="https://newsletter.rg-hamburg.de/assets/03/rangliste_quali_em_wm_2023_korrektur.pdf">Korrektur der Men 17-29</a>
             und die <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">vollständigen Qualifikationskriterien</a>.
           </p>
         </mj-text>
@@ -322,7 +323,8 @@
               Bundesliga in <strong>Weiterstadt</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
               <a href="https://bmxweiterstadt.de/bundesliga/">Campinganmeldung</a><br />
-              <em>Vom Landesverband gefördertes Rennen</em>
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
             </td>
           </tr>
           <tr>
@@ -332,7 +334,8 @@
               <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a> bis 03.05. •
               Camping ist ausgebucht •
               Fahrerlager<br />
-              <em>Vom Landesverband gefördertes Rennen</em>
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
             </td>
           </tr>
           <tr>
@@ -365,7 +368,8 @@
             <td>01.07. - 02.07.</td>
             <td>
               Deutsche Meisterschaft in <strong>Stuttgart</strong><br />
-              <em>Vom Landesverband gefördertes Rennen</em>
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
             </td>
           </tr>
           <tr>
@@ -374,7 +378,8 @@
               Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
                <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a> •
               <a href="https://bmxbesancon.fr/championnats-europe-2023/">Campinganmeldung</a> •<br />
-              <em>Vom Landesverband gefördertes Rennen</em>
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
             </td>
           </tr>
           <tr>
@@ -382,7 +387,8 @@
             <td>
               Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
               <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a><br />
-              <em>Vom Landesverband gefördertes Rennen</em>
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
             </td>
           </tr>
           <tr>
@@ -435,6 +441,12 @@
               20:00 Uhr BMX Spartentreff (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U4Mzg3ZjgtOWM0Yi00ZDU4LTk2YjctNGRhY2U0NTM3MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%2263c66f0c-1c62-4833-8dba-42236bb56f09%22%2c%22Oid%22%3a%221c1d5afa-bfe8-47df-8334-8ca0db95b094%22%7d">Online via Teams</a>)
             </td>
           </tr>
+          <tr>
+            <td>29.05.</td>
+            <td>
+              Trainingslager in <b>Bispingen</b>
+            </td>
+          </tr>
         </mj-table>
       </mj-column>
     </mj-section>
@@ -465,12 +477,14 @@
               19:00 Uhr Training 14+
             </td>
           </tr>
+          <!--
           <tr>
             <td>Donnerstags</td>
             <td>
                 18:30 Uhr Freies Fahren
             </td>
           </tr>
+          -->
         </mj-table>
       </mj-column>
     </mj-section>
