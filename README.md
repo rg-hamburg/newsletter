@@ -13,11 +13,16 @@ is built using [MJML](https://documentation.mjml.io/) and is based on the
 First, render the issue into HTML into the docs folder.
 This will make it linkable under `https://newsletter.rg-hamburg.de/${ISSUE}.html`
 
-```
-ISSUE=03-april-2023
+```bash
+export ISSUE=04-mai-2023
+export ISSUE_NAME="#04 Mai 2023"
+
 ./node_modules/.bin/mjml issues/${ISSUE}.mjml \
     --config.beautify true --config.minify true \
     --output docs/${ISSUE}.html
+
+# replace placeholders!
+envsubst < docs/${ISSUE}.html | sponge docs/${ISSUE}.html
 ```
 
 Then, we're sending out the issue via [MailJet](https://dev.mailjet.com/email/guides/send-api-v31/#send-a-basic-email).
@@ -28,12 +33,11 @@ MJ_APIKEY_PUBLIC=
 MJ_APIKEY_PRIVATE=
 issue_content=$(cat docs/${ISSUE}.html)
 receipient="bmx-alle@..."
-issue="#03 April 2023"
 
 # create MailJet payload
 jq -n --arg content ${issue_content} \
 	--arg receipient ${receipient} \
-	--arg issue ${issue} \
+	--arg issue ${ISSUE_NAME} \
 	-f mailjet-api-payload.json > ${ISSUE}.json
 
 # send email
