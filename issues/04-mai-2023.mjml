@@ -147,6 +147,9 @@
             Ab dieser Woche gibt es wieder regelmäßig nach den
             Schnupperkids donnerstags um 18:30 Uhr ein freies
             Fahren (kein Training!).
+            Bitte sagt den <a href="https://easyverein.com/public/RGHH/calendar">Termin bis zwei Stunden voher über EasyVerein zu</a>.
+            Wenn es zu wenige Fahrer werden, findet das Freie Fahren
+            nicht statt.
           </p>
           <p>
             Ab dem 11. Mai bietet Marco euch im Zweiwochentakt die
@@ -169,10 +172,13 @@
         <mj-text>
           <h3>👕 Trikots & Vereinskleidung</h3>
         </mj-text>
-        <mj-text>
+        <mj-text align="center" padding="0">
           <p>
-            ÜBERSICHT HOCHLADEN & BILD EINFÜGEN
+            <img width="250" src="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_bmx_trikot.jpg" />
+            <img width="250" src="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_windstopper.jpg" />
           </p>
+        </mj-text>
+        <mj-text>
           <p>
             Ist das Trikot schon wieder enger geworden oder wurde
             vom Asphalt in Vechta aufgefressen? Zeit für ein neues
@@ -190,9 +196,14 @@
             bzw. Eure Kinder inklusive Brustpanzer.
           </p>
           <p>
+            ➡️
+            <a href="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_bmx_trikots.pdf">Alle Angebote</a> •
+            <a href="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_trikot_bestellformular.pdf">Bestellformular</a>
+          </p>
+          <p>
             Trikots könnt Ihr via E-Mail unter
             <a href="mailto:bmxtrikots@rg-hamburg.de">bmxtrikots@rg-hamburg.de</a> bestellen
-            und via PayPal bezahlen. Bitte bestellt zeitig. Wir bündeln die
+            und via PayPal bezahlen. Bitte bestellt zeitig! Wir bündeln die
             Bestellungen, um einen entsprechenden Rabatt halten zu können. Timo
             gibt die Klamotten beim Training aus sobald sie angekommen sind.
           </p>
@@ -410,30 +421,30 @@
           <tr>
             <td>Montags</td>
             <td>
-              17:30 Uhr Training &lt;14<br />
-              19:00 Uhr Training 14+
+              17:30 Uhr Training &lt;14 <span class="light">(Joshi & Momme)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Paul)</span><br />
             </td>
           </tr>
           <tr>
             <td>Dienstags</td>
             <td>
-              17:00 Uhr Leistungsgruppe &lt;14<br />
-              18:30 Uhr Leistungsgruppe 14+
+              17:00 Uhr Leistungsgruppe &lt;14 <span class="light">(Kristaps)</span><br />
+              18:30 Uhr Leistungsgruppe 14+ <span class="light">(Kristaps)</span>
             </td>
           </tr>
           <tr>
             <td>Mittwochs</td>
             <td>
-              17:30 Uhr Training &lt;14<br />
-              19:00 Uhr Training 14+
+              17:30 Uhr Training &lt;14 <span class="light">(Momme & Timo)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Timo & Joshi)</span><br />
             </td>
           </tr>
           <tr>
             <td>Donnerstags</td>
             <td>
-                16:30 Uhr Schnuppertraining für Anfänger<br />
-                18:30 Uhr Freies Fahren für alle<br />
-                <span class="light">jede zweite Woche gemeinsames Schrauben am BMX-Bike mit Marco</span>
+                16:30 Uhr Schnuppertraining <span class="light">(Jörn)</span><br />
+                18:30 Uhr Freies Fahren (<a href="https://easyverein.com/public/RGHH/calendar">Anmeldung über EasyVerein</a>)<br />
+                <span class="light">jede gerade Woche gemeinsames Schrauben am BMX-Bike mit Marco</span>
             </td>
           </tr>
         </mj-table>
