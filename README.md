@@ -17,6 +17,7 @@ This will make it linkable under `https://newsletter.rg-hamburg.de/${ISSUE}.html
 export ISSUE=04-mai-2023
 export ISSUE_NAME="#04 Mai 2023"
 
+# render MJML to HTML
 ./node_modules/.bin/mjml issues/${ISSUE}.mjml \
     --config.beautify true --config.minify true \
     --output docs/${ISSUE}.html

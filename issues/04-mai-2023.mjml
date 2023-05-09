@@ -29,6 +29,9 @@
         vertical-align: top;
         padding-top: 5px;
       }
+      td.nobr {
+        white-space: nowrap;
+      }
       .light, .schedule em {
         color: #888;
         font-style: normal;
@@ -70,14 +73,14 @@
           </p>
           <p>
             Die Hamburger Maiferien (für die ohne Kinder: Himmelfahrt) stehen
-            vor der Tür (15. - 19.5.). In dieser Woche findet kein Training der
-            Leistungsgruppe (Dienstag) statt und freies Fahren nur nach Absprache
-            (weil Donnerstag Himmelfahrt).
+            vor der Tür (15. - 19.5.). In dieser Woche findet für die
+            Leistungsgruppe (Dienstags) kein Training statt. Für das freie
+            Fahren meldet Euch bitte über EasyVerein wenn Interesse besteht (unten mehr dazu).
           </p>
           <p>
             Wer von Euch nächste Woche zum 3 Nations Cup nach Ahnatal fährt, schaut
             vorher in den <a href="https://rg-hamburg.github.io/newsletter/assets/04/3nc_ahnatal_2023.pdf">Technical Guide</a>
-            und den enthaltenen Lageplan. Das Event ist "einen Tick" größer als
+            und den enthaltenen Lageplan. Das Event ist "einen Ticki" größer als
             NordCup oder die Bundesliga.
           </p>
           <p>
@@ -123,7 +126,7 @@
           <h4>10.06. Trainingslager in Stuttgart</h4>
           <p>
             Am 10. und 11.06. gibt es ein weiteres Trainingslager zur Vorbereitung
-            auf die Deutsche Meisterschaft auf der Supercross-BMX-Strecke in Stuttgart.
+            auf die Deutsche Meisterschaft auf der <a href="https://goo.gl/maps/qVN1h7EeiCtFC2oR9">Supercross-BMX-Strecke in Stuttgart</a>.
             Die Strecke ist technisch anspruchsvoll und es macht Sinn, diese vor dem
             eigentlichen Wettkampf einmal kennengelernt zu haben.
           </p>
@@ -147,7 +150,7 @@
             Ab dieser Woche gibt es wieder regelmäßig nach den
             Schnupperkids donnerstags um 18:30 Uhr ein freies
             Fahren (kein Training!).
-            Wenn Ihr teilnehmen wollt, sagt den <a href="https://easyverein.com/public/RGHH/calendar">Termin bis zwei Stunden voher über EasyVerein zu</a>.
+            Wenn Ihr teilnehmen wollt, sagt bis zwei Stunden voher den <a href="https://easyverein.com/public/RGHH/calendar">Termin in EasyVerein zu</a>.
             Wenn es zu wenige Fahrer werden, findet das Freie Fahren
             nicht statt.
           </p>
@@ -182,12 +185,12 @@
           <p>
             Ist das Trikot schon wieder enger geworden oder wurde
             vom Asphalt in Vechta aufgefressen? Zeit für ein neues
-            oder vielleicht ein erstes RG Hamburg Trikot!
+            oder vielleicht ein erstes RG Hamburg BMX Trikot!?
           </p>
           <p>
             Neben Trikots in Kindergrößen gibt es auch ein einfaches
             und höherwertiges Trikot für Erwachsene sowie eng anliegende
-            für Erwachesene und Teens. Alle Trikots können mit Namensaufdruck
+            Trikots für Erwachesene und Teens. Alle Trikots können mit Namensaufdruck
             bestellt werden.
           </p>
           <p>
@@ -197,7 +200,7 @@
           </p>
           <p>
             ➡️
-            <a href="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_bmx_trikots.pdf">Alle Angebote</a> •
+            <a href="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_bmx_trikots.pdf">Komplette Vereinskleidung</a> •
             <a href="https://newsletter.rg-hamburg.de/assets/04/rg_hamburg_trikot_bestellformular.pdf">Bestellformular</a>
             ⬅️
           </p>
@@ -242,14 +245,14 @@
             liebsten schon springen wollen. Und die genau die sind dann
             für Euch 😃.
           </p>
-          <p>Ich kümmere mich um die Fahranfänger, häufig auf
+          <p>Jörn kümmert sich um die Fahranfänger, häufig auf
             der 3. und 4. Geraden. Als "Assistenztrainer" würdet ihr – in
-            Absprache mit mir – die fortgeschrittenen Schnupperkids auf
+            Absprache mit Jörn – die fortgeschrittenen Schnupperkids auf
             der 1. und 2. Geraden betreuen, Gates üben und den Starthügel
             mit dem 1. Hindernis bewältigen.
           </p>
           <p>
-            Bei Interesse ist Euer Ansprechpartner Jörn und zeitlich
+            Bei Interesse ist Euer Ansprechpartner Jörn. Zeitlich
             findet das Schnuppertraining donnerstags von 16:30 bis
             18:30 Uhr statt.
           </p>
@@ -269,7 +272,7 @@
         </mj-text>
         <mj-table css-class="schedule">
           <tr>
-            <td>13.05. - 14.05.</td>
+            <td class="nobr">13.05. - 14.05.</td>
             <td>
               Bundesliga in <strong>Weiterstadt</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=774">Anmeldung</a> bis 10.05. •
@@ -279,10 +282,11 @@
             </td>
           </tr>
           <tr>
-            <td>19.05. - 21.05.</td>
+            <td class="nobr">19.05. - 21.05.</td>
             <td>
               3 Nations Cup in <strong>Ahnatal</strong><br />
-              Anmeldung geschlossen • Camping ist ausgebucht •<br />
+              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Nachmeldung</a> •
+              Camping ist ausgebucht •<br />
               Fahrerlager •
               <a href="https://rg-hamburg.github.io/newsletter/assets/04/3nc_ahnatal_2023.pdf">Technical Guide</a><br />
               <em>Vom Landesverband gefördertes Rennen</em> •
@@ -290,7 +294,7 @@
             </td>
           </tr>
           <tr>
-            <td>25.05. - 28.05.</td>
+            <td class="nobr">25.05. - 28.05.</td>
             <td>
               European Cup in <strong>Benátky (Tschechien)</strong><br />
               <a href="https://registration.jstiming.com/">Anmeldung</a> bis 08.05. •
@@ -298,7 +302,7 @@
             </td>
           </tr>
           <tr>
-            <td>03.06.</td>
+            <td class="nobr">03.06.</td>
             <td>
               Norddeutsche Meisterschaft in <strong>Bispingen</strong><br />
               <em>(auch Hamburger Landesverbandsmeisterschaft)</em><br />
@@ -307,7 +311,7 @@
             </td>
           </tr>
           <tr>
-            <td>04.06.</td>
+            <td class="nobr">04.06.</td>
             <td>
               NordCup in <strong>Bispingen</strong><br />
               <a href="https://sportslists.eu/results/upcoming?pk=754">Anmeldung</a> bis 01.06. •
@@ -315,14 +319,14 @@
             </td>
           </tr>
           <tr>
-            <td>17.06. - 18.06.</td>
+            <td class="nobr">17.06. - 18.06.</td>
             <td>
               NordCup in <strong>Bielefeld</strong><br />
               Fahrerlager
             </td>
           </tr>
           <tr>
-            <td>01.07. - 02.07.</td>
+            <td class="nobr">01.07. - 02.07.</td>
             <td>
               Deutsche Meisterschaft in <strong>Stuttgart</strong><br />
               <em>Vom Landesverband gefördertes Rennen</em> •
@@ -330,7 +334,7 @@
             </td>
           </tr>
           <tr>
-            <td>06.07. - 09.07.</td>
+            <td class="nobr">06.07. - 09.07.</td>
             <td>
               Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
                <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a> •
@@ -340,7 +344,7 @@
             </td>
           </tr>
           <tr>
-            <td>04.08. - 13.08.</td>
+            <td class="nobr">04.08. - 13.08.</td>
             <td>
               Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
               <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a><br />
@@ -349,7 +353,7 @@
             </td>
           </tr>
           <tr>
-            <td>08.09. - 10.09.</td>
+            <td class="nobr">08.09. - 10.09.</td>
             <td>
               Bundesliga in <strong>Hamburg</strong>
             </td>
@@ -393,25 +397,25 @@
         </mj-text>
         <mj-table>
           <tr>
-            <td>25.05.</td>
+            <td class="nobr">25.05.</td>
             <td>
               19:00 Uhr Vereinsabend im Vereinsheim des TSV Sasel
             </td>
           </tr>
           <tr>
-            <td>29.05.</td>
+            <td class="nobr">29.05.</td>
             <td>
               Trainingslager in <b>Bispingen</b>
             </td>
           </tr>
           <tr>
-            <td>01.06.</td>
+            <td class="nobr">01.06.</td>
             <td>
               20:00 Uhr BMX Elternabend & Spartentreff (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U4Mzg3ZjgtOWM0Yi00ZDU4LTk2YjctNGRhY2U0NTM3MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%2263c66f0c-1c62-4833-8dba-42236bb56f09%22%2c%22Oid%22%3a%221c1d5afa-bfe8-47df-8334-8ca0db95b094%22%7d">Online via Teams</a>)
             </td>
           </tr>
           <tr>
-            <td>10. & 11.06.</td>
+            <td class="nobr">10. & 11.06.</td>
             <td>
               Trainingslager in <b>Stuttgart</b>
             </td>
@@ -426,28 +430,28 @@
         </mj-text>
         <mj-table>
           <tr>
-            <td>Montags</td>
+            <td class="nobr">Montags</td>
             <td>
               17:30 Uhr Training &lt;14 <span class="light">(Joshi & Momme)</span><br />
               19:00 Uhr Training 14+ <span class="light">(Paul)</span><br />
             </td>
           </tr>
           <tr>
-            <td>Dienstags</td>
+            <td class="nobr">Dienstags</td>
             <td>
               17:00 Uhr Leistungsgruppe &lt;14 <span class="light">(Kristaps)</span><br />
               18:30 Uhr Leistungsgruppe 14+ <span class="light">(Kristaps)</span>
             </td>
           </tr>
           <tr>
-            <td>Mittwochs</td>
+            <td class="nobr">Mittwochs</td>
             <td>
               17:30 Uhr Training &lt;14 <span class="light">(Momme & Timo)</span><br />
               19:00 Uhr Training 14+ <span class="light">(Timo & Joshi)</span><br />
             </td>
           </tr>
           <tr>
-            <td>Donnerstags</td>
+            <td class="nobr">Donnerstags</td>
             <td>
                 16:30 Uhr Schnuppertraining <span class="light">(Jörn)</span><br />
                 18:30 Uhr Freies Fahren (<a href="https://easyverein.com/public/RGHH/calendar">Anmeldung über EasyVerein</a>)<br />
