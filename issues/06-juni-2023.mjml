@@ -1,0 +1,542 @@
+<mjml>
+  <mj-head>
+    <mj-title>RG Hamburg BMX Newsletter ${ISSUE_NAME}</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#333333" line-height="22px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-table font-weight="300" font-size="14px"></mj-table>
+      <mj-divider border-width="1px" border-color="#616161"></mj-divider>
+    </mj-attributes>
+    <mj-style>
+      h3, h4 {
+        font-weight: 300 !important;
+        font-size: 16px;
+        color: #003366;
+        margin-bottom: 0px;
+      }
+      h4 {
+        font-size: 14px;
+      }
+      a {
+        text-decoration: underline;
+        color: #333333;
+      }
+      td {
+        font-weight: 300 !important;
+        color: #333333 !important;
+        vertical-align: top;
+        padding-top: 5px;
+      }
+      td.nobr {
+        white-space: nowrap;
+      }
+      .light, .schedule em {
+        color: #888;
+        font-style: normal;
+      }
+      /*table.schedule td:nth-child(2) {
+        white-space: nowrap;
+        padding-right: 15px;
+      }*/
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">RG Hamburg BMX Newsletter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe ${ISSUE_NAME}</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>
+            Liebe BMX-Gemeinde!
+          </p>
+          <p>
+            Der Sommer ist da und lehrreiche Trainingslager und die ersten BMX-Rennen
+            liegen hinter uns. Das gute ist: bis zu den Sommerferien haben wir noch
+            einen NordCup in Bielefeld und die Deutsche, Europa- und Weltmeisterschaft
+            vor uns. Die Anmeldung für alle Events ist noch bis Mittwoch offen!
+          </p>
+          <p>
+
+          </p>
+          <p>
+            Happy BMXing, Torsten
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+
+
+Auslese NDM & NordCup (Bilder)
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>📆 NordCup in Bielefeld</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Am Freitag ist Camping ab 15:00 Uhr möglich und freies Fahren von
+            18:00 - 20:00 Uhr. Währenddessen ist auch schon für das leibliche
+            Wohl der Zuschauer gesorgt. Das Camping ist leider ausgebucht, aber
+            auf dem <a href="https://goo.gl/maps/9Mp3gsSzagUpVV2W8">gigantischen Parkplatz nebenan</a>
+            sollte das ein oder andere Womo noch einen Platz finden.
+          </p>
+          <p>
+            Eine Anmeldung ist noch bis Mittwoch möglich.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🫡 Organisatorisches</h3>
+        </mj-text>
+        <mj-text>
+          <h4>👨‍👩‍👧‍👦 Vereins- und Spartenabende</h4>
+          <p>
+            Neben der Hauptversammlung aller Sparten der RG Hamburg
+            und dem Vereinsabend aller Sparten gibt es einmal im
+            Monat den BMX-Spartenabend (auch: Elternabend).
+          </p>
+          <p>
+            Der BMX-Spartenabend findet (meist online) am 1. Donnerstag
+            des Monats statt und richtet sich an alle aktiven Fahrer
+            und deren Eltern. Hier besprechen wir diverse Ideen rund um die
+            BMX-Bahn und -Rennen und wir freuen uns über rege Beteiligung!
+          </p>
+          <h4>🚧 Bahnbau</h4>
+          <p>
+            Die Beteiligung beim letzten Bahnbau-Termin war - sagen wir es
+            diplomatisch - etwas schleppend. Ich weiß, dass BMX viel Raum
+            in der Freizeit einnimmt aber für einen kontinuierlichen und
+            sicheren Trainingsbetrieb brauchen wir an den Bahnbauterminen
+            jede helfende Hand.
+          </p>
+          <p>
+            Auch vor jedem Training möchte ich Euch bitten, die Bahn
+            auf eventuelle Blätter und Äste in den Kurven zu kontrollieren
+            und die Kurven zu fegen.
+          </p>
+          <p>
+            Der nächste Bahnbau-Termin findet erst zur Vorbereitung auf
+            die Bundesliga Ende August statt. Kleinere Ausbesserungen, die
+            easy-peasy während des Trainings gemacht werden können, hängen
+            wir demnächst auf einer Tafel im Aufenthaltsbereich auf.
+          </p>
+          <h4>📆 Organisation Bundesliga-Rennen in Hamburg</h4>
+          <p>
+            Das Organisationskommitee für das Bundesliga-Rennen in
+            Hamburg trifft sich das nächste Mal am 27. Juni. Auch
+            schon in der Organisationsphase ist jede helfende Hand
+            gerne gesehen. Beim Renn-Aufbau müsst Ihr spätestens
+            alle ran 😏
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>👩‍⚖️ Zukünftige Kampfrichter (KK) gesucht</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Wir benötigen für alle BMX-Rennen Wettkampfbahnrichter.
+            Die liebe Stefanie Fließ bietet uns allen nun eine online
+            KK Ausbildung an. Stattfinden tut es am Wochenende und
+            dauert 3-4 Stunden. Der Termin steht allerdings noch nicht
+            fest, es wird beim NordCup aber eine Hospitation stattfinden.
+          </p>
+          <p>
+            Beim NordCup in Bispingen waren schon die ersten zukünftigen
+            Kampfrichter am hospitieren 😃
+          </p>
+          <p>
+            Bei Interesse für diesen Durchgang oder einen eventuellen im
+            nächsten Jahr meldet Euch gerne bei Maike Maiwald.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🚀 Nachlese Norddeutsche Meisterschaft & NordCup in Bispingen</h3>
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/06/fahrerlager.jpg"></mj-image>
+        <mj-text>
+          <p>
+            Kinners, wie die Zeit vergeht. Letzte Woche saßen wir noch mit
+            Sonnenbrand bei bester Laune in Bispingen zur Norddeutschen Meisterschaft.
+            Es ging darum, die deutschen Nordmeister*innen auszufahren. Gleichtzeitig
+            wurden auch die Hamburger Meister*innen ausgefahren.
+          </p>
+          <p>
+            Und was soll ich sagen: Die Fahrer*innen der RG Hamburg haben solide
+            abgeliefert und Chrissy, Lois, Joshi und Mathis auch den Nordmeister-Titel
+            abgeräumt. Unsere Men Elite haben das Podium komplett besetzt 😃
+          </p>
+          <h4>🥇 Norddeutsche Meisterschaft, Samstag 03. Juni 2023</h4>
+          <ul>
+            <li>BOYS 9-10</li>
+            <ul>
+              <li>Ben: 🥈</li>
+              <li>Johann: Finale Platz 5</li>
+              <li>Mattis: Halbfinale</li>
+              <li>Lasse: Halbfinale</li>
+              <li>Otto: Vorläufe</li>
+              <li>Jonas: Vorläufe</li>
+              <li>Mateo: Vorläufe</li>
+            </ul>
+            <li>BOYS 11-12</li>
+            <ul>
+              <li>Valentino: 🥈</li>
+              <li>Kilian: 🥉</li>
+              <li>Lucas: Finale Platz 5</li>
+              <li>Nic: Halbfinale</li>
+            </ul>
+            <li>BOYS 13-14</li>
+            <ul>
+              <li>Louis R: 🥇</li>
+              <li>Louis S: Finale Platz 7</li>
+            </ul>
+            <li>BOYS 15-16</li>
+            <ul>
+              <li>Tim: Finale Platz 8</li>
+              <li>Paul: Vorläufe</li>
+            </ul>
+            <li>MEN 17+</li>
+            <ul>
+              <li>Timo: 🥉</li>
+              <li>Momme: Finale Platz 5</li>
+            </ul>
+            <li>MEN 30+</li>
+            <ul>
+              <li>Mark: Finale Platz 5</li>
+            </ul>
+            <li>MEN ELITE</li>
+            <ul>
+              <li>Mathis: 🥇</li>
+              <li>Joshi: 🥈</li>
+              <li>Ferenz: 🥉</li>
+            </ul>
+            <li>CRUISER WOMEN</li>
+            <ul>
+              <li>Chrissy: 🥇</li>
+            </ul>
+            <li>CRUISER 17+</li>
+            <ul>
+              <li>Momme: 🥈</li>
+              <li>Jan: Vorläufe</li>
+            </ul>
+          </ul>
+          <p>
+            Men Elite wurde mit Junior Men zusammengelegt.
+            Als einziger Men Elite Fahrer ist Joshi somit auch🥇
+          </p>
+          <h4>🥇 NordCup, Sonntag 04. Juni 2023</h4>
+          <ul>
+            <li>BOYS 9-10</li>
+            <ul>
+              <li>Johann: Finale Platz 4</li>
+              <li>Mattis: Halbfinale</li>
+              <li>Jonas: Halbfinale</li>
+              <li>Otto: Vorläufe</li>
+              <li>Lasse: Vorläufe</li>
+              <li>Mateo: Vorläufe</li>
+            </ul>
+            <li>BOYS 11-12</li>
+            <ul>
+              <li>Valentino: 🥈</li>
+              <li>Nic: Halbfinale</li>
+              <li>Lucas: Halbfinale</li>
+            </ul>
+            <li>BOYS 13-14</li>
+            <ul>
+              <li>Louis S: 🥉</li>
+              <li>Mats: Finale Platz 7</li>
+            </ul>
+            <li>BOYS 15-16</li>
+            <ul>
+              <li>Louis R: 🥈</li>
+              <li>Paul: Vorläufe</li>
+              <li>Tim: Vorläufe</li>
+            </ul>
+            <li>MEN 17+</li>
+            <ul>
+              <li>Mathis: 🥇</li>
+              <li>Timo: Finale Platz 4</li>
+              <li>Momme: Halbfinale</li>
+            </ul>
+            <li>MEN 30+</li>
+            <ul>
+              <li>Mark: Finale Platz 4</li>
+            </ul>
+            <li>CRUISER WOMEN</li>
+            <ul>
+              <li>Chrissy: 🥇</li>
+            </ul>
+            <li>CRUISER MEN</li>
+            <ul>
+              <li>Sascha: Vorläufe</li>
+            </ul>
+          </ul>
+        </mj-text>
+        <mj-text>
+          <img width="150" src="https://rg-hamburg.github.io/newsletter/assets/06/joshi_erklaert.jpg" />
+          <img width="150" src="https://rg-hamburg.github.io/newsletter/assets/06/nordmeister.jpg" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>💨 Nächste Rennen</h3>
+        </mj-text>
+        <mj-table css-class="schedule">
+          <tr>
+            <td class="nobr">17.06. - 18.06.</td>
+            <td>
+              NordCup in <strong>Bielefeld</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=755">Anmeldung</a> bis 15.06. •
+              Fahrerlager
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">01.07. - 02.07.</td>
+            <td>
+              Deutsche Meisterschaft in <strong>Stuttgart</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=824">Anmeldung 15+</a> •
+              <a href="https://sportslists.eu/results/upcoming?pk=825">Anmeldung Cup</a>
+               bis 15.06.<br />
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">06.07. - 09.07.</td>
+            <td>
+              Europameisterschaft in <strong>Besançon (Frankreich)</strong><br />
+              <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a> •
+              <a href="https://bmxbesancon.fr/championnats-europe-2023/">Camping</a> •
+              <a href="https://www.uec.ch/resources/2023%20Events/bmx%20besancon/2023%20TG%20BMX%20European%20Championships%20Besancon%20070502023.pdf">Technical Guide</a> •
+              <a href="https://www.rsc-weimar-ahnatal.eu/kategorie/bmx/uec-european-championships-2023-besancon-anmeldung-deutschland">Anmeldung</a> •
+              <br />
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">04.08. - 13.08.</td>
+            <td>
+              Weltmeisterschaft in <strong>Glasgow (Schottland)</strong><br />
+              <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a> •
+              <a href="https://sportivebreaks.com/2023-uci-world-championship-glasgow/2023-uci-bmx-racing-challenge-in-glasgow/">Camping</a>
+              <br />
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">08.09. - 10.09.</td>
+            <td>
+              Bundesliga in <strong>Hamburg</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=803">Anmeldung</a> •
+              Fahrerlager
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">15.09. - 17.09.</td>
+            <td>
+              3 Nations Cup in <strong>Ranst (Belgien)</strong><br />
+              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a><br />
+              <em>Vom Landesverband gefördertes Rennen</em>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">17.09.</td>
+            <td>
+              EastCup in <strong>Berlin</strong><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">22.09. - 24.09.</td>
+            <td>
+              Bundesliga in <strong>Kornwestheim (Stuttgart)</strong> •<br />
+              <em>Vom Landesverband gefördertes Rennen</em>
+            </td>
+          </tr>
+          <tr>
+            <td>27.10. - 29.10.</td>
+            <td>
+              3 Nations Cup in <strong>Assen (Niederlande)</strong><br />
+              <a href="https://www.rsc-weimar-ahnatal.eu/bmx/3-nations-bmx-cup-2023-anmeldung">Anmeldung</a><br />
+              <em>Vom Landesverband gefördertes Rennen</em>
+            </td>
+          </tr>
+<!--
+          <tr>
+            <td>04.11. - 05.11.</td>
+            <td>
+              NordCup Finale in <strong>Bremen</strong>
+            </td>
+          </tr>
+-->
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>📆 Termine (Verein)</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td class="nobr">19.06.</td>
+            <td>
+              18:30 Uhr Hauptversammlung der RG Hamburg beim TSV Sasel
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">22.06.</td>
+            <td>
+              19:00 Uhr <a href="https://easyverein.com/public/RGHH/calendar/96442733">Vereinsabend beim TSV Sasel</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">27.06.</td>
+            <td>
+              19:00 Uhr Bundesliga-Hamburg-Organisationstreffen an der BMX-Bahn
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">06.07.</td>
+            <td>
+              20:00 Uhr BMX Vereinsabend für Eltern & Racer (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U4Mzg3ZjgtOWM0Yi00ZDU4LTk2YjctNGRhY2U0NTM3MmQw%40thread.v2/0?context=%7b%22Tid%22%3a%2263c66f0c-1c62-4833-8dba-42236bb56f09%22%2c%22Oid%22%3a%221c1d5afa-bfe8-47df-8334-8ca0db95b094%22%7d">Online via Teams</a>)
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>🏋️‍♀️ Trainingstermine</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td class="nobr">Montags</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Joshi & Momme)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Paul)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Dienstags</td>
+            <td>
+              17:00 Uhr Leistungsgruppe &lt;14 <span class="light">(Kristaps)</span><br />
+              18:30 Uhr Leistungsgruppe 14+ <span class="light">(Kristaps)</span>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Mittwochs</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Momme & Timo)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Timo & Joshi)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Donnerstags</td>
+            <td>
+                16:30 Uhr Schnuppertraining <span class="light">(Jörn)</span><br />
+                18:30 Uhr Freies Fahren (<a href="https://easyverein.com/public/RGHH/calendar">Anmeldung über EasyVerein</a>)<br />
+                <span class="light">jede gerade Woche gemeinsames Schrauben am BMX-Bike mit Marco</span>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>📬 Feedback</h3>
+          <p>
+            Du hast bis zum Ende gelesen, Danke! Wenn Du Feedback
+            hast, <a href="mailto:news@rg-hamburg.de">schreibe mir gerne</a>
+            oder sprich mich an der Bahn an!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="35%">
+        <mj-table align="center">
+          <tr style="list-style: none;line-height:1">
+            <td>
+              <a href="https://www.instagram.com/bmx_rghamburg/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/instagram.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://www.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/website.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://newsletter.rg-hamburg.de/${ISSUE}.html">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
+              </a>
+            </td>
+            <td>
+              <a href="mailto:news@rg-hamburg.de">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/envelope.png" />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
