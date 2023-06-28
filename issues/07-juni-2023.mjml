@@ -1,0 +1,164 @@
+<mjml>
+  <mj-head>
+    <mj-title>RG Hamburg BMX Newsletter ${ISSUE_NAME}</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#333333" line-height="22px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-table font-weight="300" font-size="14px"></mj-table>
+      <mj-divider border-width="1px" border-color="#616161"></mj-divider>
+    </mj-attributes>
+    <mj-style>
+      h3, h4 {
+        font-weight: 300 !important;
+        font-size: 16px;
+        color: #003366;
+        margin-bottom: 0px;
+      }
+      h4 {
+        font-size: 14px;
+      }
+      a {
+        text-decoration: underline;
+        color: #333333;
+      }
+      td {
+        font-weight: 300 !important;
+        color: #333333 !important;
+        vertical-align: top;
+        padding-top: 5px;
+      }
+      td.nobr {
+        white-space: nowrap;
+      }
+      .light, .schedule em {
+        color: #888;
+        font-style: normal;
+      }
+      /*table.schedule td:nth-child(2) {
+        white-space: nowrap;
+        padding-right: 15px;
+      }*/
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">RG Hamburg BMX Newsletter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe ${ISSUE_NAME}</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>
+            Liebe BMX-Gemeinde!
+          </p>
+          <p>
+            Heute melde ich mich kurz außer der Reihe. Momme und Zoé
+            bieten Euren Kindern bis 14 Jahren ein Ferientrainingslager
+            Ende Juli an. Die perfekte Vorbereitung auf die Bundesliga
+            in Hamburg! Wir freuen uns über Teilnehmer*innen der RG
+            Hamburg und weiterer Nord-Vereine!
+          </p>
+          <p>
+            Nächste Woche gibt es Ergebnisse von der Deutschen Meisterschaft,
+            Trainingszeiten für die Ferien und vieles mehr 🤞
+          </p>
+          <p>
+            Happy BMXing, Torsten
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🥰 Ferientrainingslager 21. - 23. Juli</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Momme und Zoé freuen sich, Euren Kids bis 14 Jahren ein BMX-Ferientrainingslager
+            vom 21. bis zum 23. Juli auf der BMX-Bahn in Hamburg anzubieten!
+          </p>
+          <h4>📆 Das haben wir vor</h4>
+          <p>
+            Wir starten <b>Freitagnachmittag</b> mit freiem Fahren auf der
+            BMX-Bahn.
+          </p>
+          <p>
+            <b>Samstag</b> gibt es Morgens und Abends jeweils eine
+            Trainingseinheit. Mittags schlemmen wir gemeinsam Nudeln
+            und bei gutem Wetter kühlen wir uns im Freibad Farmsen
+            ab. Abends sitzen wir bei Stockbrot am Lagerfeuer und
+            machen den Grill mit einem gemeinsamen Buffet an.
+          </p>
+          <p>
+            <b>Sonntag</b> gibt es morgens eine weitere Trainingseinheit
+            und Nachmittags eventuell noch ein freies Fahren.
+          </p>
+          <h4>💰 Unkosten</h4>
+          <p>
+            Die Unkosten betragen €35 für Bahn, Getränke, Nudeln, Stockbrot,
+            Schwimmbad und Trainer. Für €5 mehr könnt Ihr auch direkt
+            an der Bahn campen 🏕️
+          </p>
+          <h4>📨 Da will ich unbedingt dabei sein!</h4>
+          <p>
+            Dann meldet Euch bis zum 3.7. unter <a href="mailto:bmx-trainer@rg-hamburg.de</a>">bmx-trainer@rg-hamburg.de</a>
+            an! Wer zuerst kommt, mahlt zuerst ⏱️
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="35%">
+        <mj-table align="center">
+          <tr style="list-style: none;line-height:1">
+            <td>
+              <a href="https://www.instagram.com/bmx_rghamburg/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/instagram.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://www.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/website.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://newsletter.rg-hamburg.de/${ISSUE}.html">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
+              </a>
+            </td>
+            <td>
+              <a href="mailto:news@rg-hamburg.de">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/envelope.png" />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
