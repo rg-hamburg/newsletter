@@ -14,8 +14,8 @@ First, render the issue into HTML into the docs folder.
 This will make it linkable under `https://newsletter.rg-hamburg.de/${ISSUE}.html`
 
 ```bash
-export ISSUE=08-juli-2023
-export ISSUE_NAME="#08 Juli 2023"
+export ISSUE=09-august-2023
+export ISSUE_NAME="#09 August 2023"
 
 # render MJML to HTML
 ./node_modules/.bin/mjml issues/${ISSUE}.mjml \
