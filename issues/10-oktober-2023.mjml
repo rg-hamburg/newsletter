@@ -406,9 +406,9 @@
       </mj-column>
       <mj-column>
         <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_01.jpg"></mj-image>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_02.JPG"></mj-image>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_03.JPG"></mj-image>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_04.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_02.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_03.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_04.jpg"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -417,7 +417,7 @@
         <mj-text>
           <h3>🇩🇪 Nachlese EastCup in Berlin</h3>
         </mj-text>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_02.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_02.jpg"></mj-image>
         <mj-text>
           Berlin ist immer eine Reise wert, wenn der EastCup im Mellowpark ruft
           umso mehr. Immer chillig, so viel zu sehen und tun im Mellowpark und vor
@@ -444,10 +444,10 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_01.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_01.jpg"></mj-image>
       </mj-column>
       <mj-column>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_03.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_03.jpg"></mj-image>
       </mj-column>
     </mj-section>
 
