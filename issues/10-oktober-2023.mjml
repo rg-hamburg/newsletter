@@ -49,7 +49,7 @@
   <mj-body>
     <mj-section>
       <mj-column width="100%">
-        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_joshi.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -71,17 +71,46 @@
             Liebe RG-Hamburg BMX-Gemeinde!
           </p>
           <p>
-
-- Neue Spartenleitung (Vivien & Sandra)
-- Feldborg Trainingslager
-- teilnahme bitte an spartenabend
-- berichte an landesverband -> https://www.radsport-hh.de/cms/index.php?startseite
-- Kristaps Elternabend 7.11.
-
-
+            Was war das für ein BMX-September? Bundesliga in Hamburg,
+            3 Nations Cup in Ranst, EastCup in Berlin und Bundesliga-Finale
+            in Kornwestheim. Wir waren so einige 100 Kilometer unterwegs
+            und deshalb brauchte mal ein paar Tage ohne BMX. Spoiler: hat
+            nicht geklappt und hier ist der Fast-Noch-September-Newsletter.
           </p>
           <p>
-            Wir sehen uns dann am Wochendende am Rasenmäher<br />
+            Diese Saison haben wir noch drei Rennen auf der Uhr:
+            Das 3 Nations Cup Finale in Assen,
+            und das NordCup-Finale in Bremen! <em>Der NordCup
+            in Bremen ist auf einen Lauf am Sonntag verkürzt</em>. Es wird
+            auch kein Camping geben, da die Fläche gerade Baustelle ist.
+            Solltet Ihr
+            <a href="https://www.moto-sheets.com/events/209/Gesamtwertung_NC_nach_Bielefeld_L5.html">in der Gesamtwertung des NordCup</a>
+            auf den vorderen Plätzen sein, müsst Ihr beim Finale in Bremen
+            mitfahren um geehrt zu werden!
+          </p>
+          <p>
+            Aber Du hast doch von drei weiteren Rennen geschrieben?
+            Gut aufgepasst! Am 18.11. wiederholen wir unser No-Chain-Race vom
+            letzten Jahr bei uns auf der Bahn!
+          </p>
+          <p>
+            Wir marschieren mit großen Schritten auf die
+            Flutlicht-Jahreszeit zu und das heißt: <em>Trainingslager</em>.
+            Den Start machen Momme & Zoé vom 6. bis 8. Oktober in Zeven
+            für einen schmalen Taler.
+            Im Januar und Februar geht es ansonsten wie gewohnt nach
+            Feldborg 🇩🇰. Die Termine findet Ihr unten, weitere Infos
+            gibt es nach den Herbstferien.
+          </p>
+          <p>
+            Nächste Woche ist auch wieder Online-BMX-Spartenabend. Da
+            werden wir wieder viele BMX-relevante Themen besprechen.
+            Kommt doch gerne dazu! Nach den Herbstferien gibt es auch
+            noch einen "echten" Elternabend, wo wir die nächste Saison
+            planen wollen (Rennen, Lizenzen & Organisatorisches).
+          </p>
+          <p>
+            Bis demnächst an der Bahn<br />
             Happy BMXing, Torsten
           </p>
         </mj-text>
@@ -96,7 +125,7 @@
     <mj-section>
       <mj-column>
         <mj-text>
-          <h3>💰 Organisatorisches</h3>
+          <h3>🍯 Organisatorisches</h3>
         </mj-text>
         <mj-text>
           <h4>💨 Kristaps-Training am 3.10. offen für alle</h4>
@@ -110,7 +139,8 @@
             Momme und Zoé laden vom 6. bis 8. Oktober wieder zum U14 BMX Trainingslager.
             Diesmal geht es an die Bahn nach Zeven. Es gibt ein schönes Rahmenprogramm
             mit Lagerfeuer und Stockbrot aber auch mit Indoor-Pumptrack!
-            Anmelden könnt Ihr Euch direkt bei den beiden.
+            Anmelden könnt Ihr Euch bei
+            <a href="mailto:zoe.flettner@gmail.com">Zoé via Email</a>.
           </p>
           <h4>👕 Bundesliga Helfershirts zurückgeben</h4>
           <p>
@@ -177,30 +207,179 @@
     <mj-section>
       <mj-column>
         <mj-text>
+          <h3>🇩🇪 Nachlese Bundesliga in Hamburg</h3>
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/buli_05.jpg"></mj-image>
+        <mj-text>
+          🎉 Es war uns ein Fest! Bei bestem Wetter konnten wir 240
+          Fahrer*innen an zwei Renntagen zur BMX Bundesliga bei
+          uns an der Bahn begrüßen. Grill und BAR haben gebrannt
+          mit dem Nachkaufen von Eis und Wasser kamen wir kaum
+          hinterher 😃 Vielen Dank an das gesamte Helferteam, die
+          Organisation, das Camping-Team, die Küche, der Ausschank
+          und das Bahnbau-Team. Es hat wirklich hervorragend geklappt
+          und - noch wichtiger - einen riesen Spaß gemacht.
+          Gerne wieder 🙌
+        </mj-text>
+        <mj-text>
+          💨 Der SPECIALIZED Holeshot Award am Samstag für die
+          schnellste erste Gerade ging an Axel Webster & Sienna Schrader.
+        </mj-text>
+        <mj-text>
+          🚅 Der Preis für die schnellsten 15m am Sonntag ging an
+          Axel Webster (2.039s) & Sienna Schrader (2.273s) sowie
+          Emil Brosz und Louis Romeyke-Schlapper (2.131s) sowie
+          Mila Rückmann (2.292s)
+        </mj-text>
+        <mj-text>
+          Ein besonderer Dank geht an die Sponsoren Specialized Store Hamburg,
+          Allianz Niederlassung Riccius, TCI und LL Performance!
+          Die Platzierungen der RG Hamburg Fahrer im einzelnen:
+        </mj-text>
+        <mj-text>
+          <h4>Bundesliga Lauf 3️⃣ am Samstag</h4>
+          <ul>
+            <li>BOYS-GIRLS 9-10</li>
+            <ul>
+              <li>Ben 🥉</li>
+              <li>Johann: Platz 6</li>
+              <li>Jonas: Platz 7</li>
+              <li>Mattis: B-Finale Platz 7</li>
+              <li>Lasse: Vorläufe</li>
+              <li>Otto: Vorläufe</li>
+              <li>Mateo: Vorläufe</li>
+            </ul>
+            <li>BOYS-GIRLS 11-12</li>
+            <ul>
+              <li>Kilian: Platz 4</li>
+              <li>Valentino: B-Finale Platz 1</li>
+              <li>Nic: B-Finale Platz 4</li>
+              <li>Lucas: B-Finale Platz 8</li>
+              <li>Adrian: Vorläufe</li>
+              <li>Max: Vorläufe</li>
+            </ul>
+            <li>BOYS-GIRLS 13-14</li>
+            <ul>
+              <li>Louis: 🥇</li>
+              <li>Louis Sellmann: Platz 7</li>
+              <li>Mats: B-Finale Platz 8</li>
+              <li>Lian: Vorläufe</li>
+            </ul>
+            <li>BOYS 15-16</li>
+            <ul>
+              <li>Till: 🥈
+              <li>Paul: B-Finale
+              <li>Tim: Vorläufe
+            </ul>
+            <li>MEN 17-29</li>
+            <ul>
+              <li>Momme: Platz 7</li>
+              <li>Timo: Vorläufe</li>
+            </ul>
+            <li>MEN 30-39</li>
+            <ul>
+              <li>Mark: 🥉</li>
+            </ul>
+            <li>ELITE MEN</li>
+            <ul>
+              <li>Mathis: Platz 6</li>
+              <li>Joshi: Platz 7</li>
+            </ul>
+          </ul>
+          <h4>Bundesliga Lauf 4️⃣ am Sonntag</h4>
+          <ul>
+            <li>BOYS-GIRLS 9-10</li>
+            <ul>
+              <li>Ben: 🥇</li>
+              <li>Johann: Platz 5</li>
+              <li>Jonas: Platz 7</li>
+              <li>Mattis: Vorläufe</li>
+              <li>Lasse: Vorläufe</li>
+              <li>Otto: Vorläufe</li>
+              <li>Henry: Vorläufe</li>
+            </ul>
+            <li>BOYS-GIRLS 11-12</li>
+            <ul>
+              <li>Kilian: Platz 5</li>
+              <li>Valentino: B-Finale Platz 1</li>
+              <li>Lucas: Viertelfinale</li>
+              <li>Nic: Vorläufe</li>
+              <li>Adrian: Vorläufe</li>
+              <li>Max: Vorläufe</li>
+            </ul>
+            <li>BOYS-GIRLS 13-14</li>
+            <ul>
+              <li>Louis: Platz 8</li>
+              <li>Mats: Viertelfinale</li>
+              <li>Louis Sellmann: Vorläufe</li>
+            </ul>
+            <li>BOYS 15-16</li>
+            <ul>
+              <li>Till: 🥈</li>
+              <li>Tim: B-FInale Platz 3</li>
+              <li>Paul: Vorläufe</li>
+            </ul>
+            <li>MEN 17-29
+            <ul>
+              <li>Timo: Platz 4</li>
+              <li>Momme: Vorläufe</li>
+            </ul>
+            <li>MEN 30-39</li>
+            <ul>
+              <li>Mark: 🥈</li>
+            </ul>
+            <li>ELITE MEN</li>
+            <ul>
+              <li>Mathis: Platz 6</li>
+              <li>Joshi: Vorläufe</li>
+              <li>Ferenz: Vorläufe</li>
+            </ul>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/buli_01.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/buli_04.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
           <h3>🇧🇪 Nachlese 3 Nations Cup in Ranst</h3>
         </mj-text>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/08/stuttgart.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
         <mj-text>
-          Der 3 Nations Cup machte dieses Jahr das erste Mal in Ranst Station.
-          Aber so schlimm wie der Name der Stadt vermuten lässt, war es dann gar
-          nicht. Bei Kaiserwetter machte sich eine kleine aber feine Truppe auf
+          Der 3 Nations Cup machte dieses Jahr das erste Mal in Ranst (Belgien) Station.
+          Bei Kaiserwetter machte sich eine kleine aber feine Truppe auf
           in das Land der Fritten und Waffeln um beim BMX mal zu schauen, wo der
-          Hammer hängt.
+          Hammer hängt. Der 3 Nations Cup ist ein spannendes Kräftemessen des
+          BMX-Nachwuchses aus Deutschland, Holland und Belgien. Entsprechend stark
+          (und groß) ist das Fahrerfeld.
         </mj-text>
         <mj-text>
-          Und es war wild. Unser Teamzelt mutierte zum Treffpunkt der Fahrer der
-          Nordvereine. Die Kids sprachen sich viel Mut zu und unterstützen sich im
-          Gedränge der knapp 600 Fahrer*innen. Wenn dann der amtierende Weltmeister
-          mit dem Europa- und Deutschen Meister
-          aber mit Dir am Gate steht und "gottlos rüberzieht" (Zitat Johann) dann
-          ist im Viertelfinale halt Schluss.
+          Und es war wild! Unser Teamzelt mutierte zum Treffpunkt der Fahrer der
+          deutschen Nordvereine. Die RG Hamburg-Nachwuchs behauptete sich stark
+          im Fahrerfeld von über 600 Fahrer*innen und konnte den einen oder anderen
+          Akzent setzen. Wenn aber der amtierende Weltmeister zusammen mit dem
+          Europa- und Deutschen Meister mit Dir am Gate steht und nach dem Start
+          "gottlos rüberzieht" (Zitat Johann) dann ist im Viertelfinale halt
+          Schluss 🤷‍♂️
         </mj-text>
         <mj-text>
-          Für die Fahrer sind solche Rennen extrem wichtig, dass BMX außerhalb
+          Für die Fahrer sind solche Rennen extrem wichtig, um zu sehen, dass BMX
+          außerhalb
           Deutschlands noch viel mehr ein Kontaktsport ist. Es war schön zu sehen,
           wie Freundschaften zwischen den Kids aus verschiedenen Vereinen entstanden
           sind und gepflegt wurden. Deshalb: gerne wieder, wir freuen uns auf die
-          letzten beiden Läufe in Assen 🇳🇱
+          letzten beiden Läufe des 3 Nations Cup in Assen 🇳🇱
         </mj-text>
         <mj-text>
           <h4>Lauf 3️⃣ 3NC 16.9.2023 (Ranst 🇧🇪)</h4>
@@ -225,6 +404,12 @@
           </ul>
         </mj-text>
       </mj-column>
+      <mj-column>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_01.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_02.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_03.JPG"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/ranst_04.JPG"></mj-image>
+      </mj-column>
     </mj-section>
 
     <mj-section>
@@ -232,19 +417,19 @@
         <mj-text>
           <h3>🇩🇪 Nachlese EastCup in Berlin</h3>
         </mj-text>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/08/stuttgart.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_02.JPG"></mj-image>
         <mj-text>
           Berlin ist immer eine Reise wert, wenn der EastCup im Mellowpark ruft
           umso mehr. Immer chillig, so viel zu sehen und tun im Mellowpark und vor
           allem: ein lizenzfreies Rennen. Das wusste Birk für sich zu nutzen und
-          fuhr in seinem ersten BMX-Rennen in der Klasse Boys 6 and under direkt
+          fuhr in seinem ersten BMX-Rennen in der Klasse <em>Boys 6 and under</em> direkt
           auf die 🥇. Herzlichen Glückwunsch!
         </mj-text>
         <mj-text>
           Bei den Boys 9/10 fuhren alle RG Hamburg Fahrer ins A-Finale und Jonas
           sogar auf sein erstes Treppchen 🥈. Herzlichen Glückwunsch! Ben wurde
           auf dem zweiten Platz liegend leider auf den achten Platz zurückgestuft,
-          da er im Fight um den Sieg die weiße Linie überfahren hat 😕
+          da er im Kampf um den Sieg die weiße Linie überfahren hat 😕
         </mj-text>
         <mj-text>
           <h4>EastCup 3️⃣ 17.9.2023 (Mellowpark Berlin)</h4>
@@ -257,13 +442,21 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_01.JPG"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/berlin_03.JPG"></mj-image>
+      </mj-column>
+    </mj-section>
 
     <mj-section>
       <mj-column>
         <mj-text>
           <h3>🇩🇪 Nachlese Bundesliga in Kornwestheim</h3>
         </mj-text>
-        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/08/stuttgart.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/kwh_03.jpg"></mj-image>
         <mj-text>
           Kornwestheim bei Stuttgart rief zu den letzten beiden Läufen der
           BMX-Bundesliga. Da haben wir uns nicht lumpen lassen, unsere Gesamtplatzierung
@@ -274,102 +467,57 @@
           Trotz der (sehr) weiten Anreise waren wir mit 10 Fahrern vor Ort. Louis, Kilian und
           Ben lieferten ab wie die Maschinen und fuhren an beiden Tagen ins A-Finale
           bzw. auf Treppchen. Für die übrigen Fahrer taten sich ganz neue Gegner aus dem
-          Süden Deutschlands auf aber alle kämpften tapfer
+          Süden Deutschlands auf aber alle kämpften tapfer um die Platzierungen!
         </mj-text>
         <mj-text>
           Im Anschluss an den letzten Lauf wurde noch die Gesamtplatzierung der BMX
           Race Bundesliga geehrt, also das Ergebnis aller Läufe in Weiterstadt, Hamburg
-          und Kornwestheim. Auch stand die RG Hamburg auf ein paar Treppchen!
+          und Kornwestheim. Und die RG Hamburg stand ein paar Mal auf dem Treppchen!
         </mj-text>
         <mj-text>
-          <h4>🏆 Gesamtwertung BMX Race Bundesliga 2023</h4>
-          <p>
-            Ausgezeichnet werden die ersten acht Plätze.
-          </p>
-          <ul>
-            <li>BOYS 9/10</li>
-            <ul>
-              <li>Ben 🥉</li>
-              <li>Johann Platz 7</li>
-            </ul>
-            <li>BOYS 11/12</li>
-            <ul>
-              <li>Kilian Platz 6</li>
-            </ul>
-            <li>BOYS 13/14</li>
-            <ul>
-              <li>Louis 🥈</li>
-            </ul>
-            <li>CRUISER WOMEN 30+</li>
-            <ul>
-              <li>Chrissy 🥉</li>
-            </ul>
-            <li>MEN 40+</li>
-            <ul>
-              <li>Mark 🥈</li>
-            </ul>
-            <li>ELITE MEN</li>
-            <ul>
-              <li>Mathis Platz 6</li>
-            </ul>
-          </ul>
           <h4>Lauf 5️⃣ 23.9.2023</h4>
           <ul>
-            <li>BOYS 9/10</li>
-            <ul>
-              <li>Ben Platz 7</li>
-              <li>Johann B-Finale Platz 5</li>
-              <li>Mateo Vorläufe</li>
-            </ul>
-            <li>BOYS 11/12</li>
-            <ul>
-              <li>Valentino Platz 4</li>
-              <li>Kilian Platz 6</li>
-              <li>Nic Vorläufe</li>
-              <li>Lucas Vorläufe</li>
-            </ul>
-            <li>BOYS 13/14</li>
-            <ul>
-              <li>Louis 🥉</li>
-            </ul>
-            <li>CRUISER II</li>
-            <ul>
-              <li>Mark Platz 5</li>
-            </ul>
-            <li>ELITE MEN</li>
-            <ul>
-              <li>Ferenz Platz 8</li>
-            </ul>
+            <li>Ben Platz 7 (Boys 9/10)</li>
+            <li>Johann B-Finale Platz 5 (Boys 9/10)</li>
+            <li>Mateo Vorläufe (Boys 9/10)</li>
+            <li>Valentino Platz 4 (Boys 11/12)</li>
+            <li>Kilian Platz 6 (Boys 11/12)</li>
+            <li>Nic Vorläufe (Boys 11/12)</li>
+            <li>Lucas Vorläufe (Boys 11/12)</li>
+            <li>Louis 🥉 (Boys 13/14)</li>
+            <li>Mark Platz 5 (Cruiser II)</li>
+            <li>Ferenz Platz 8 (Elite Men)</li>
           </ul>
           <h4>Lauf 6️⃣ 24.9.2023</h4>
           <ul>
-            <li>BOYS 9/10</li>
-            <ul>
-              <li>Ben 🥇</li>
-              <li>Johann Viertelfinal</li>
-              <li>Mateo Vorläufe</li>
-            </ul>
-            <li>BOYS 11/12</li>
-            <ul>
-              <li>Kilian Platz 6</li>
-              <li>Valentino B-Finale Platz 2</li>
-              <li>Nic Vorläufe</li>
-              <li>Lucas Vorläufe</li>
-            </ul>
-            <li>BOYS 13/14</li>
-            <ul>
-              <li>Louis 🥈</li>
-            </ul>
-            <li>CRUISER II</li>
-            <ul>
-              <li>Mark Platz 5</li>
-            </ul>
-            <li>ELITE MEN</li>
-            <ul>
-              <li>Ferenz Platz 8</li>
-            </ul>
+            <li>Ben 🥇 (Boys 9/10)</li>
+            <li>Johann Viertelfinale (Boys 9/10)</li>
+            <li>Mateo Vorläufe (Boys 9/10)</li>
+            <li>Kilian Platz 6 (Boys 11/12)</li>
+            <li>Valentino B-Finale Platz 2 (Boys 11/12)</li>
+            <li>Nic Vorläufe (Boys 11/12)</li>
+            <li>Lucas Vorläufe (Boys 11/12)</li>
+            <li>Louis 🥈 (Boys 13/14)</li>
+            <li>Mark Platz 5 (Cruiser II)</li>
+            <li>Ferenz Platz 8 (Elite Men)</li>
+          </ul>
+          <h4>🏆 Gesamtwertung BMX Race Bundesliga 2023</h4>
+          <p>
+            Ausgezeichnet werden jeweils die ersten acht Plätze.
+            Der erste Platz fährt im nächsten Jahr die Startnummer
+            <em>Bundesliga 1</em>
+          </p>
+          <ul>
+            <li>Ben 🥉 (Boys 9/10)</li>
+            <li>Johann Platz 7 (Boys 9/10)</li>
+            <li>Kilian Platz 6 (Boys 11/12)</li>
+            <li>Louis 🥈 (Boys 13/14)</li>
+            <li>Chrissy 🥉 (Cruiser Women 30+)</li>
+            <li>Mark 🥈 (Men 40+)</li>
+            <li>Mathis Platz 6 (Elite Men)</li>
           </ul>
         </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/10/kwh_02.jpg"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -409,7 +557,8 @@
             <td>18.11.</td>
             <td class="level">👍</td>
             <td>
-              NoChain Race in <strong>Hamburg</strong>
+              NoChain Race in <strong>Hamburg</strong><br />
+              Lizenzfreies Rennen - ideal zum Einsteigen!
             </td>
           </tr>
         </mj-table>
