@@ -127,7 +127,7 @@
           <p>
             In den Herbstferien gibt es ein reduziertes
             Training jeweils Montags und Mittwochs um
-            18:30 Uhr. Nach den Herbstferien versuchen
+            18:00 Uhr. Nach den Herbstferien versuchen
             wir - je nach Zustand der Bahn - die bisherigen
             Trainingszeiten bis zu unserem Nightrace am
             18.11. beizubehalten.
@@ -411,13 +411,13 @@
           <tr>
             <td class="nobr">Montags</td>
             <td>
-              18:30 Uhr Training
+              18:00 Uhr Training
             </td>
           </tr>
           <tr>
             <td class="nobr">Mittwochs</td>
             <td>
-              18:30 Uhr Training
+              18:00 Uhr Training
             </td>
           </tr>
         </mj-table>
