@@ -1,0 +1,511 @@
+<mjml>
+  <mj-head>
+    <mj-title>RG Hamburg BMX Newsletter ${ISSUE_NAME}</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#333333" line-height="22px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-table font-weight="300" font-size="14px"></mj-table>
+      <mj-divider border-width="1px" border-color="#616161"></mj-divider>
+    </mj-attributes>
+    <mj-style>
+      h3, h4 {
+        font-weight: 300 !important;
+        font-size: 16px;
+        color: #003366;
+        margin-bottom: 0px;
+      }
+      h4 {
+        font-size: 14px;
+      }
+      a {
+        text-decoration: underline;
+        color: #333333;
+      }
+      td {
+        font-weight: 300 !important;
+        color: #333333 !important;
+        vertical-align: top;
+        padding-top: 5px;
+      }
+      td.nobr {
+        white-space: nowrap;
+      }
+      td.level {
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+      .light, .schedule em {
+        color: #888;
+        font-style: normal;
+      }
+      /*table.schedule td:nth-child(2) {
+        white-space: nowrap;
+        padding-right: 15px;
+      }*/
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">RG Hamburg BMX Newsletter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe ${ISSUE_NAME}</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>
+            Liebe RG-Hamburg BMX-Gemeinde!
+          </p>
+          <p>
+            Pünktlich zu den Hamburger Herbstferien darf ich Euch
+            noch mit einem Newsletter beglücken. Die Themen heute
+            sind vor allem organisatorischer Natur: Trainingstermine,
+            Spartenabend, Dies, Das, Ananas
+          </p>
+          <p>
+            Diese Saison haben wir noch einen großen BMX-Renn-Ausflug vor uns,
+            den 3 Nations Cup in Assen am letzten Oktoberwochenende 🙌
+            Das wirklich gute an so einem späten Termin im Jahr ist, dass
+            das Rennwochenende mit der Zeitumstellung zusammenfällt und
+            wir am Sonntag eine Stunde länger schlafen können! 💪
+          </p>
+          <p>
+            Wen treffe ich denn in Assen? Ansonsten sehen wir uns alle
+            beim Spartenabend am 15.11. an der Bahn! Ich freue mich
+            schon auf die Wintertrainingszeit und Eure Tipps für
+            beheizbare Socken, Decken und Handschuhe 🔥
+          </p>
+          <p>
+            Happy Holidays, <br />
+            Torsten
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🍛 Tales from the Tellerrand</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Hier ganz viel organisatorisches von innerhalb und
+            außerhalb unseres RG Hamburg BMX-Tellers. Guten Appetit! 🍝
+          </p>
+
+          <h4>🤓 Spartenabend am 15.11.</h4>
+          <p>
+            Am 15.11. <a href="https://rg-hamburg.github.io/newsletter/assets/11/einladung_elternabend.pdf">laden wir zu einem Spartenabend</a>
+            an der Bahn. Wir haben viele allgemeine Themen auf der
+            Agenda, wollen mit Euch aber auch einen Blick in die
+            nächste Saison (Trikots, Rennen, Lizenzen, Qualifikationsrennen, Trainingslager)
+            werfen. Wir freuen uns auf Euch, egal ob Ersttäter oder
+            alter Hase 🐇
+          </p>
+
+          <h4>🚄 Training im Herbst/Winter</h4>
+          <p>
+            In den Herbstferien gibt es ein reduziertes
+            Training jeweils Montags und Mittwochs um
+            18:30 Uhr. Nach den Herbstferien versuchen
+            wir - je nach Zustand der Bahn - die bisherigen
+            Trainingszeiten bis zu unserem Nightrace am
+            18.11. beizubehalten.
+          </p>
+          <p>
+            Das allseits bekannte und beliebte Wintertraining
+            Samstags um 10:00 Uhr startet am 25.11. Über die
+            Trainingszeiten über den Winter informieren wir
+            im nächsten Newsletter und kurzfristige Änderungen
+            wie immer per WhatsApp oder E-Mail.
+          </p>
+
+          <h4>🥇 Winter-Trainings-Rennserie</h4>
+          <p>
+            Über den Winter veranstalten wir gemeinsam mit
+            den BMX Sportfreunden Bispingen eine lockere Winter-
+            Rennserie. Momentan sind vier Rennen in Bispingen und
+            zwei in Hamburg angedacht. Nähere Informationen folgen
+            am Spartenabend!
+          </p>
+
+          <h4>💨 Neue Wege beim Sprint-Training</h4>
+          <p>
+            Diese Woche haben wir aufgrund der unterirdischen
+            Wetterprognose mal etwas neues für das Bahntraining
+            im Winter ausprobiert. Statt das Training stumpf ausfallen zu
+            lassen, haben wir im Parkhaus an der U-Bahn Meiendorf
+            Sprints und Radbeherrschung geübt. Die Einheit war
+            überraschend kurzweilig und hat allen großen Spaß gemacht.
+          </p>
+          <p>
+            Sollten wir aufgrund des Wetters noch einmal dorthin
+            ausweichen, geben wir rechtzeitig via Mail und WhatsApp
+            Bescheid!
+          </p>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🫡 Neue Spartenleitung</h3>
+        </mj-text>
+        <mj-text padding-bottom="0px">
+            Wir haben eine neue Spartenleitung! Wusstet
+            Ihr nicht? Doch! Die beiden "Neuen" Vivien
+            und Sandra stellen sich hier einmal vor.
+        </mj-text>
+        <mj-text padding-bottom="0px">
+            An dieser Stelle möchte ich unserer scheidenden
+            Spartenleitung Mirja einen <em>RIESIGEN</em> Dank aussprechen,
+            dass sie unsere Rasselbande so gut durch die letzten,
+            sehr herausfordernden Jahre geführt hat 🙏
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/11/steckbrief_01.jpg"></mj-image>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/11/steckbrief_02.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🏋️ Trainingslager in Zeven</h3>
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/11/zeven_01.jpg"></mj-image>
+        <mj-text>
+          <p>
+            Zoé und Momme haben wieder zum U14 Trainingslager geladen.
+            Diesmal waren wir in Zeven zu Gast. Trotz miesepetrigem
+            Wetter hatten alle einen Riesenspaß in der Pumptrack-Halle
+            und auf der Bahn, beim Stockbrot vernichten und generell
+            Quatsch machen mit den ganzen anderen Verrückten 🤩
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>💨 Asphalt-Sprintstrecke für die RG Hamburg</h3>
+        </mj-text>
+        <mj-text>
+          <p>
+            Sprint-Training ist für den Erfolg im BMX extrem wichtig.
+            Und zwar Sprint-Training auf ebener Strecke.
+            <a href="https://www.youtube.com/watch?v=lfV6BBoKZ4I">Diese</a>
+            <a href="https://www.youtube.com/watch?v=q8OaFLkte8k">drei</a>
+            <a href="https://www.youtube.com/watch?v=dII7OhXAXpM">Videos</a>
+            erklären das Thema sehr schön in der Tiefe.
+          </p>
+          <p>
+            Asphalt ist leider sehr teuer und die Gesamtkosten schätzen
+            wir auf knapp €4.800. Um das zu realisieren gibt es eine
+            Spendenaktion via
+            <a href="https://www.paypal.com/donate/?hosted_button_id=JULXU92N9MBRG">Paypal</a>
+            oder
+            <a href="https://spenden.twingle.de/radsport-gemeinschaft-hamburg-von-1893-e-v/sprintstrecke-asphalt-30m/tw64dddec0ca5e3/page">Twingle</a>.
+          </p>
+          <p>
+            In der letzten Ausgabe hat sich hier doch glatt der
+            Fehlerteufel eingeschlichen.
+            <em>Aktuell sind €2.084 im zusammengekommen 💰🎉</em> Danke an alle Spender!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>💨 Nächste Rennen</h3>
+        </mj-text>
+        <mj-table css-class="schedule">
+          <tr>
+            <td>27.10. - 29.10.</td>
+            <td class="level">🌬️</td>
+            <td>
+              3 Nations Cup in <strong>Assen 🇳🇱</strong><br />
+              <a href="https://fcunitas.nl/shop/3-nations/">Camping</a> •
+              Fahrerlager<br />
+              <em>Vom Landesverband gefördertes Rennen</em> •
+              <a class="light" href="https://bit.ly/rg-hamburg-bmx-rennabrechnung">Abrechnung</a>
+            </td>
+          </tr>
+          <tr>
+            <td>05.11.</td>
+            <td class="level">👍</td>
+            <td>
+              NordCup Finale in <strong>Bremen</strong><br />
+              <a href="https://sportslists.eu/results/upcoming?pk=758">Anmeldung bis 2.11.</a><br />
+              <em>Pflichtveranstaltung für die NordCup-Gesamtwertung!</em>
+            </td>
+          </tr>
+          <tr>
+            <td>18.11.</td>
+            <td class="level">👍</td>
+            <td>
+              NoChain Race in <strong>Hamburg</strong><br />
+              Lizenzfreies Rennen - ideal zum Einsteigen!
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-text>
+          <h4>💨 Vorschau Renntermine 2024</h4>
+          <p>
+            Die 3 Nations Cup, Deutsche Meisterschaft,
+            Bundesliga und NordCup-Termine für 2024
+            sind noch in der Findungsphase. Mit Glück werden
+            im Dezember die Termine für den 3NC und die
+            Bundesliga 2024 verkündet. Der Nord- und EastCup folgt
+            anschließend.
+          </p>
+        </mj-text>
+
+        <mj-table css-class="schedule">
+          <tr>
+            <td class="nobr">09.03. - 10.03.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Sarrians</strong> 🇫🇷
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">30.03. - 31.03.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Zolder</strong> 🇧🇪
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">13.04. - 14.04.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Benatky</strong> 🇨🇿
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">12.05. - 19.05.</td>
+            <td class="level">🌍</td>
+            <td>
+              Weltmeisterschaft in <strong>Rock Hill (SC)</strong> 🇺🇸<br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">29.05. - 02.06.</td>
+            <td class="level">🌍</td>
+            <td>
+              Europameisterschaft in <strong>Verona</strong> 🇮🇹 <br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">15.06. - 16.06.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Tiel</strong> 🇳🇱
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">13.07. - 14.07.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Valmiera</strong> 🇱🇻
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">07.09. - 08.09.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Ravels</strong> 🇧🇪
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-text>
+          <h4>🧐 Was sind denn das für Rennen (a.k.a. Legende)</h4>
+          <p class="light">
+            👍 – Ideales Einsteigerrennen<br />
+            🌬️ – Für fortgeschrittene Fahrer<br />
+            🇪🇺 – European Cup für fortgeschrittene Fahrer<br />
+            🌍 – Rennen mit <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>📆 Termine (Verein)</h3>
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td class="nobr">15.11.</td>
+            <td>
+              18:00 Uhr BMX Spartenabend an der Bahn
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">27. & 28.01.</td>
+            <td>
+              (2024) Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">10. & 11.02.</td>
+            <td>
+              (2024) Ü30 Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">24. & 25.02.</td>
+            <td>
+              (2024) Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>🏋️‍♀️ Trainingstermine</h3>
+        </mj-text>
+
+        <mj-text>
+          <h4>🎃 In den Herbstferien</h4>
+        </mj-text>
+
+        <mj-table>
+          <tr>
+            <td class="nobr">Montags</td>
+            <td>
+              18:30 Uhr Training
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Mittwochs</td>
+            <td>
+              18:30 Uhr Training
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-text padding-bottom="0px">
+          <h4>🌧️ Ab den Herbstferien</h4>
+        </mj-text>
+
+        <mj-text padding-bottom="0px">
+          Die Trainingstermine gelten bis zum Nightrace am 18.11.
+        </mj-text>
+
+        <mj-table>
+          <tr>
+            <td class="nobr">Montags</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Joshi & Momme)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Paul)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Dienstags</td>
+            <td>
+              17:00 Uhr Leistungsgruppe &lt;14 <span class="light">(Kristaps)</span><br />
+              18:30 Uhr Leistungsgruppe 14+ <span class="light">(Kristaps)</span>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Mittwochs</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Momme & Timo)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Timo & Joshi)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Donnerstags</td>
+            <td>
+                18:30 Uhr Freies Fahren (<a href="https://easyverein.com/public/RGHH/calendar">Anmeldung über EasyVerein</a>)
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>📬 Feedback</h3>
+          <p>
+            Du hast bis zum Ende gelesen, Danke! Wenn Du Feedback
+            hast, <a href="mailto:news@rg-hamburg.de">schreibe mir gerne</a>
+            oder sprich mich an der Bahn an!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="35%">
+        <mj-table align="center">
+          <tr style="list-style: none;line-height:1">
+            <td>
+              <a href="https://www.instagram.com/bmx_rghamburg/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/instagram.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://www.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/website.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://newsletter.rg-hamburg.de/${ISSUE}.html">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
+              </a>
+            </td>
+            <td>
+              <a href="mailto:news@rg-hamburg.de">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/envelope.png" />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
