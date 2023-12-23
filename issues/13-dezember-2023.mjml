@@ -1,0 +1,457 @@
+<mjml>
+  <mj-head>
+    <mj-title>RG Hamburg BMX Newsletter ${ISSUE_NAME}</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#333333" line-height="22px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+      <mj-table font-weight="300" font-size="14px"></mj-table>
+      <mj-divider border-width="1px" border-color="#616161"></mj-divider>
+    </mj-attributes>
+    <mj-style>
+      h3, h4 {
+        font-weight: 300 !important;
+        font-size: 16px;
+        color: #003366;
+        margin-bottom: 0px;
+      }
+      h4 {
+        font-size: 14px;
+      }
+      a {
+        text-decoration: underline;
+        color: #333333;
+      }
+      td {
+        font-weight: 300 !important;
+        color: #333333 !important;
+        vertical-align: top;
+        padding-top: 5px;
+      }
+      td.nobr {
+        white-space: nowrap;
+      }
+      td.level {
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+      .light, .schedule em {
+        color: #888;
+        font-style: normal;
+      }
+      /*table.schedule td:nth-child(2) {
+        white-space: nowrap;
+        padding-right: 15px;
+      }*/
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/header_kristaps.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center">RG Hamburg BMX Newsletter</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Ausgabe ${ISSUE_NAME}</mj-text>
+        <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px">
+      <mj-column width="100%">
+        <mj-text>
+          <p>
+            Liebe RG-Hamburg BMX-Gemeinde!
+          </p>
+          <p>
+            Morgen schon ist Weihnachten und bei vielen von Euch
+            wird es leuchtende Kinderaugen geben während sie mit
+            ihren neuen Fahrrädern, Helmen oder Karbonfelgen durchs
+            Wohnzimmer tanzen. Wir sind schon ein merkwürdiger Haufen 🥴
+          </p>
+          <p>
+            Ansonsten nähern wir uns mit großen Schritten der BMX-Saison
+            2024. Inzwischen steht der komplette Rennkalender
+            (siehe unten). Wir haben die Ehre gleich zwei Rennen
+            nächstes Jahr auszutragen. Zum einen die <em>Norddeutsche
+            Meisterschaft</em> und den <em>Bundesliga-Endlauf</em>. Aber das beste ist,
+            dass es zwei aufeinander folgende Wochenenden sind –
+            wir müssen nur einmal aufbauen 🙌
+          </p>
+          <p>
+            Die Erfolge im Sommer werden ja bekanntlich im Winter gemacht. Deshalb
+            freuen wir uns, dass unser erstes Trainingswochenende in
+            Feldborg Ende Januar mit 29 Fahrern sehr gut besucht
+            sein wird! Das Training auf der Bahn startet wieder
+            am 3. Januar 2024 (wenn das Wetter es zulässt) bzw.
+            am 6. Januar 2024 in der Halle.
+          </p>
+          <p>
+            Entspannte Feiertage, <br />
+            Torsten
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🛒 FrechStyler aus Mölln, unser BMX-Ausrüster</h3>
+        </mj-text>
+        <mj-text padding-bottom="0px">
+          <img style="float: right; margin-left: 1em;" src="https://rg-hamburg.github.io/newsletter/assets/13/marco.jpg" width="200"/>
+          <p>
+            Naaa, ist noch Weihnachtsgeld vom Oma übrig?
+            Da ihr ja alle BMX fahrt, weiß ich natürlich
+            wo das Geld am besten investiert ist: im neuen
+            BMX-Fahrrad natürlich 😃
+          </p>
+          <p>
+            Damit Ihr Euer Geld auch zielgerichtet und nachhaltig
+            ausgebt, möchte ich Euch <a href="http://www.fahrrad-frech.de/">Marco Frech von FrechStyler</a>
+            in Mölln ans Herz legen.
+          </p>
+          <img style="float: left; margin-right: 1em;" src="https://rg-hamburg.github.io/newsletter/assets/13/johann_bmx.jpg" width="200"/>
+          <p>
+            Aus eigener Erfahrung weiß ich, dass Ihr bei Marco
+            immer eine gute Beratung bekommt und er Euch auch bei
+            Umbauten tatkräftig unterstützt. Er bietet mehr als faire
+            Preise und empfiehlt Euch zielsicher das passende Fahrrad
+            mit den passenden Komponenten zu Euren Leistungsambitionen.
+          </p>
+          <p>
+            Im Sommer ist Marco regelmäßig an der Bahn und mit seinem
+            Verkaufsstand auf den meisten BMX-Rennen im Umkreis. Viel
+            Spaß beim Shoppen!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>🎄 Weihnachtsgrüße</h3>
+        </mj-text>
+        <mj-text padding-bottom="0px">
+          Ein paar Weihnachtsgrüße vom Vorstand und der Spartenleitung 😃
+        </mj-text>
+        <mj-image src="https://rg-hamburg.github.io/newsletter/assets/13/weihnachtsgruesse.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>💨 Nächste Rennen (2024)</h3>
+        </mj-text>
+        <mj-table css-class="schedule">
+          <tr>
+            <td class="nobr">09.03. - 10.03.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Sarrians</strong> 🇫🇷
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">30.03. - 31.03.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Zolder</strong> 🇧🇪
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">06.04. - 07.04.</td>
+            <td class="level">👍</td>
+            <td>
+              NordCup in <strong>Bremen</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">13.04. - 14.04.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Benatky</strong> 🇨🇿
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">19.04. - 21.04.</td>
+            <td class="level">👍</td>
+            <td>
+              Bundesliga in <strong>Leopoldshöhe</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">27.04. - 28.04.</td>
+            <td class="level">👍</td>
+            <td>
+              NordCup in <strong>Ahnatal</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">03.05. - 05.05.</td>
+            <td class="level">👍</td>
+            <td>
+              Bundesliga in <strong>Weiterstadt</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">12.05. - 19.05.</td>
+            <td class="level">🌍</td>
+            <td>
+              Weltmeisterschaft in <strong>Rock Hill (SC)</strong> 🇺🇸<br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">25.05. - 26.05.</td>
+            <td class="level">👍</td>
+            <td>
+              100 Jahre Zugvögel Bielefeld & NordCup in <strong>Bielefeld</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">29.05. - 02.06.</td>
+            <td class="level">🌍</td>
+            <td>
+              Europameisterschaft in <strong>Verona</strong> 🇮🇹 <br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">09.06.</td>
+            <td class="level">👍</td>
+            <td>
+              NordCup in <strong>Vechta</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">15.06. - 16.06.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Tiel</strong> 🇳🇱
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">28.06. - 30.06.</td>
+            <td class="level">🌬️</td>
+            <td>
+              3NC in <strong>Ahnatal</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">05.07. - 07.07.</td>
+            <td class="level">🌬️</td>
+            <td>
+              Deutsche Meisterschaft in <strong>Berlin</strong><br />
+              <em>Alternativ: Stuttgart</em>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">13.07. - 14.07.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Valmiera</strong> 🇱🇻
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">30.08. - 01.09.</td>
+            <td class="level">🌬️</td>
+            <td>
+              3NC in <strong>Peer</strong> 🇧🇪
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">07.09. - 08.09.</td>
+            <td class="level">🇪🇺</td>
+            <td>
+              European Cup in <strong>Ravels</strong> 🇧🇪
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">13.09. - 15.09.</td>
+            <td class="level">👍</td>
+            <td>
+              Bundesliga in <strong>Ingersheim</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">20.09. - 22.09.</td>
+            <td class="level">🌬️</td>
+            <td>
+              3NC in <strong>Uithoorn</strong> 🇳🇱
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">28.09. - 29.09.</td>
+            <td class="level">👍</td>
+            <td>
+              Open Race & Norddeutsche Meisterschaft in <strong>Hamburg</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">04.10. - 06.10.</td>
+            <td class="level">👍</td>
+            <td>
+              Bundesliga in <strong>Hamburg</strong>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">26.10. - 27.10.</td>
+            <td class="level">👍</td>
+            <td>
+              NordCup in <strong>Bispingen</strong>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-text>
+          <h4>🧐 Was sind denn das für Rennen (a.k.a. Legende)</h4>
+          <p class="light">
+            👍 – Ideales Einsteigerrennen<br />
+            🌬️ – Für fortgeschrittene Fahrer<br />
+            🇪🇺 – European Cup für fortgeschrittene Fahrer<br />
+            🌍 – Rennen mit <a href="https://www.rad-net.de/rad-net-portal/amtliche.htm?url=%2Fmodules.php%3Fname%3DBekanntmachungen%26pgID_Bekanntmachungen%3D2%26print%3D1%26recid%3D6129&url_hash=q79m5Gns3GToyIWgfbHXkpTG2FT_5dIJYZ5_YycHeS0">Qualifikationskriterien</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>📆 Termine (Verein)</h3>
+        </mj-text>
+        <mj-table>
+
+          <tr>
+            <td class="nobr">27. & 28.01.</td>
+            <td>
+              (2024) Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">03.02.2024</td>
+            <td>
+              Vereinsfeierei in der TRUDE 🥳
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">10. & 11.02.</td>
+            <td>
+              (2024) Ü30 Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">24. & 25.02.</td>
+            <td>
+              (2024) Trainingslager in Feldborg 🇩🇰
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0px">
+          <h3>🏋️‍♀️ Trainingstermine</h3>
+        </mj-text>
+
+        <mj-table>
+          <tr>
+            <td class="nobr">Montags</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Joshi & Momme)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Paul)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Dienstags</td>
+            <td>
+              17:00 Uhr Leistungsgruppe &lt;14 <span class="light">(Kristaps)</span><br />
+              18:30 Uhr Leistungsgruppe 14+ <span class="light">(Kristaps)</span>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Mittwochs</td>
+            <td>
+              17:30 Uhr Training &lt;14 <span class="light">(Momme & Timo)</span><br />
+              19:00 Uhr Training 14+ <span class="light">(Timo & Joshi)</span><br />
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">Samstags</td>
+            <td>
+                10:00 Uhr Hallentraining<br />
+                (<a href="https://www.google.com/maps/place/Ganztagsschule+an+der+Berner+Au/@53.6202608,10.1195157,176m/data=!3m1!1e3!4m6!3m5!1s0x47b18a499e7e6539:0x2b5d62139df0085d!8m2!3d53.6198734!4d10.1200217!16s%2Fg%2F11b6dhg11k?entry=ttu">Ganztagesschule An der Berner Au</a>)
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="45%">
+        <mj-divider></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h3>📬 Feedback</h3>
+          <p>
+            Du hast bis zum Ende gelesen, Danke! Wenn Du Feedback
+            hast, <a href="mailto:news@rg-hamburg.de">schreibe mir gerne</a>
+            oder sprich mich an der Bahn an!
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="35%">
+        <mj-table align="center">
+          <tr style="list-style: none;line-height:1">
+            <td>
+              <a href="https://www.instagram.com/bmx_rghamburg/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/instagram.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://www.rg-hamburg.de/">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/website.png" />
+              </a>
+            </td>
+            <td>
+              <a href="https://newsletter.rg-hamburg.de/${ISSUE}.html">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/archive.png" />
+              </a>
+            </td>
+            <td>
+              <a href="mailto:news@rg-hamburg.de">
+                <img width="25" src="https://rg-hamburg.github.io/newsletter/assets/envelope.png" />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-image width="50px" href="https://rg-hamburg.de" src="https://rg-hamburg.github.io/newsletter/assets/logo.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
