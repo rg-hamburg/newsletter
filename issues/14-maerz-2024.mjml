@@ -76,7 +76,23 @@
             BMX-Rad zurück auf die Bahn, sehr gut 👍
           </p>
           <p>
-            In den letzten Wochen ...
+            Inzwischen steht der Rennkalender für 2024 und die ersten
+            Anmeldungen sind schon offen (NordCup Bremen). Wahrscheinlich
+            plant Ihr auch schon die nächsten Wochenenden und freut Euch auf
+            sonnige Stunden an einer staubigen BMX-Bahn weit weg
+            im Süden Deutschlands 😃
+          </p>
+          <p>
+            Wir freuen uns auf die Norddeutsche Meisterschaft und die
+            Bundesliga im September/Oktober bei hoffentlich wundervollen
+            Spätsommerwetter bei uns auf der Bahn. Allerdings gibt es noch
+            vieeeel zu organisieren, deshalb freuen wir uns auf tatkräftige
+            Mithilfe bei der Organisation und beim Bahnbau in den nächsten
+            Wochen.
+          </p>
+          <p>
+            Auf jeden Fall freuen ich mich auf neue und alte Gesichter
+            bei den nächsten Rennen 😎
           </p>
           <p>
             Bis gleich an der Bahn<br />
@@ -143,6 +159,9 @@
             Das Fahrerlager-Orga-Team tagt demnächst und schaut, wo und wie
             wir für Eure Kids eine Betreuung im Fahrerlager organisieren.
           </p>
+          <p>
+            Camping ist bei den meisten Veranstaltungen möglich.
+          </p>
         </mj-text>
         <mj-table css-class="schedule">
           <tr>
@@ -179,7 +198,8 @@
             <td class="level">🌬️</td>
             <td>
               Bundesliga in <strong>Leopoldshöhe</strong><br/>
-              <a href="https://registration.jstiming.com/organizers/9b4a0f34-be7c-4026-a908-2282c404569b">Anmeldung</a> bis 17.4.
+              <a href="https://registration.jstiming.com/organizers/9b4a0f34-be7c-4026-a908-2282c404569b">Anmeldung</a> bis 17.4.<br/>
+              <em>Qualifikationsrennen für EM/WM</em>
             </td>
           </tr>
           <tr>
@@ -196,10 +216,18 @@
             <td class="nobr">03.05. - 05.05.</td>
             <td class="level">🌬️</td>
             <td>
-              Bundesliga in <strong>Weiterstadt</strong><br />
+              Bundesliga in <strong>Weiterstadt</strong><br/>
+              <em>Qualifikationsrennen für EM/WM</em>
               <!--
               <a href="https://registration.jstiming.com/organizers/9b4a0f34-be7c-4026-a908-2282c404569b">Anmeldung</a> bis 1.5.
               -->
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">18.05. - 19.05.</td>
+            <td class="level">👍</td>
+            <td>
+              EastCup in <strong>Plessa</strong><br />
             </td>
           </tr>
           <tr>
@@ -231,7 +259,9 @@
             <td class="nobr">07.06. - 09.06.</td>
             <td class="level">🌬️</td>
             <td>
-              Deutsche Meisterschaft in <strong>Stuttgart</strong><br />
+              Deutsche Meisterschaft in <strong>Stuttgart</strong><br/>
+              <em>Qualifikationsrennen für EM/WM</em> •
+              <em>Kein Camping</em>
               <!--
               <a href="https://registration.jstiming.com/organizers/9b4a0f34-be7c-4026-a908-2282c404569b">Anmeldung</a> bis 4.6.
               -->
@@ -248,7 +278,8 @@
             <td class="nobr">28.06. - 30.06.</td>
             <td class="level">🌬️</td>
             <td>
-              3NC in <strong>Ahnatal</strong>
+              3NC in <strong>Ahnatal</strong><br/>
+              <em>Qualifikationsrennen für EM/WM</em>
             </td>
           </tr>
           <tr>
@@ -269,7 +300,8 @@
             <td class="nobr">30.08. - 01.09.</td>
             <td class="level">🌬️</td>
             <td>
-              3NC in <strong>Peer</strong> 🇧🇪
+              3NC in <strong>Peer</strong> 🇧🇪<br/>
+              <em>Qualifikationsrennen für EM/WM</em>
             </td>
           </tr>
           <tr>
@@ -283,14 +315,23 @@
             <td class="nobr">13.09. - 15.09.</td>
             <td class="level">🌬️</td>
             <td>
-              Bundesliga in <strong>Ingersheim</strong>
+              Bundesliga in <strong>Ingersheim</strong><br/>
+              <em>Qualifikationsrennen für EM/WM</em>
             </td>
           </tr>
           <tr>
             <td class="nobr">20.09. - 22.09.</td>
             <td class="level">🌬️</td>
             <td>
-              3NC in <strong>Uithoorn</strong> 🇳🇱
+              3NC in <strong>Uithoorn</strong> 🇳🇱<br/>
+              <em>Qualifikationsrennen für EM/WM</em>
+            </td>
+          </tr>
+          <tr>
+            <td class="nobr">21.09. - 22.09.</td>
+            <td class="level">👍</td>
+            <td>
+              EastCup in <strong>Berlin</strong><br />
             </td>
           </tr>
           <tr>
@@ -304,7 +345,8 @@
             <td class="nobr">04.10. - 06.10.</td>
             <td class="level">👍</td>
             <td>
-              Bundesliga in <strong>Hamburg</strong>
+              Bundesliga in <strong>Hamburg</strong><br/>
+              <em>Qualifikationsrennen für EM/WM</em>
             </td>
           </tr>
           <tr>
@@ -368,31 +410,33 @@
         <mj-table>
 
           <tr>
-            <td class="nobr">13.03.</td>
+            <td class="nobr" style="padding-right:1em">13.03. 18:30</td>
             <td>
-              18:30 Uhr Auftakt Bundesliga Planungstreffen an der BMX-Bahn
+              Auftakt Bundesliga Planungstreffen an der BMX-Bahn
             </td>
           </tr>
           <tr>
-            <td class="nobr">28.03.</td>
+            <td class="nobr">28.03. 19:00</td>
             <td>
               <a href="https://easyverein.com/public/RGHH/calendar/183251830">Vereinsabend</a> im Vereinsheim des TSV Sasel
             </td>
           </tr>
           <tr>
-            <td class="nobr">04.04.</td>
+            <td class="nobr">04.04.. 19:00</td>
             <td>
-              <a href="https://easyverein.com/public/RGHH/calendar/196973406">Nutzung von MS Teams im Verein</a> im Vereinsheim des TSV Sasel
+              <a href="https://easyverein.com/public/RGHH/calendar/196973406">Nutzung von MS Teams im Verein</a>
+              im Vereinsheim des TSV Sasel (nur relevant falls Ihr eine <code>@rg-hamburg.de</code> E-Mailadresse habt)
             </td>
           </tr>
           <tr>
-            <td class="nobr">16.04.</td>
+            <td class="nobr">16.04. 18:00 </td>
             <td>
-              <a href="https://easyverein.com/public/RGHH/calendar/190325018">Jahreshauptversammlung</a> im Vereinsheim des TSV Sasel
+              <a href="https://easyverein.com/public/RGHH/calendar/190325018">Jahreshauptversammlung</a>
+              im Vereinsheim des TSV Sasel. Wir haben Vorstandsposten zu besetzen, kommt gerne vorbei!
             </td>
           </tr>
           <tr>
-            <td class="nobr">04.04.</td>
+            <td class="nobr">04.04. 19:00</td>
             <td>
               <a href="https://easyverein.com/public/RGHH/calendar/196973406">Nutzung von MS Teams im Verein</a> im Vereinsheim des TSV Sasel
             </td>
